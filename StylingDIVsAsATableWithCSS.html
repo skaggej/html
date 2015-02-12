@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Styling DIVs as a table with CSS</title>
+<style type="text/css">
+body {
+	font-family: Helvetica;
+}
+.outer {
+}
+.left {
+	display: table-cell;
+	width: 645px;
+}
+.left-r2-c1, .left-r2-c2 {
+	display: table-cell;
+	width: 316px;
+}
+.left-r2-middle {
+	display: table-cell;
+	width: 13px;
+}
+.left-r4-c1, .left-r4-c2, .left-r4-c3 {
+	display: table-cell;
+	width: 208px;
+}
+.left-r4-middle {
+	display: table-cell;
+	width: 10.5px;
+}
+.middle {
+	display: table-cell;
+	width: 38px;
+}
+.right {
+	display: table-cell;
+	width: 325px;
+}
+</style>
+</head>
+<body>
+<h1>The table below is really just a bunch of DIV tags styled with CSS.</h1>
+<div>
+<div class="left">This is the main left column.
+	<div>This is the image carousel</div>
+	<div>
+		<div class="left-r2-c1">Dept Calendar</div>
+		<div class="left-r2-middle"></div>
+		<div class="left-r2-c2">Being Well in New Mexico</div>
+	</div>
+	<div>Division News and Highlights</div>
+	<div>
+		<div class="left-r4-c1">IT Highlights</div>
+		<div class="left-r4-middle"></div>
+		<div class="left-r4-c2">HR Highlights</div>
+		<div class="left-r4-middle"></div>
+		<div class="left-r4-c3">Training Highlights</div>
+	</div>
+</div>
+<div class="middle">38px</div>
+<div class="right">This is the main right column.</div>
+</div>
+</body>
+</html>
