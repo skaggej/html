@@ -1,0 +1,2479 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="rss.nmroads.com.xsl"?>
+<rss version="2.0" xmlns:osow="http://nmroads.com/osow/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>New Mexico Traffic Conditions</title>
+<link>http://nmroads.com</link>
+<description>Traffic incident and event information for all of New Mexico</description>
+<language>en-us</language>
+<atom:link href="http://nmroads.com/rss.xml" rel="self" type="application/rss+xml" />
+<pubDate>Mon, 23 Feb 2015 12:40:10 -0700</pubDate>
+<lastBuildDate>Mon, 23 Feb 2015 12:40:10 -0700</lastBuildDate>
+<item>
+<title>Roadwork - New Mexico 68 from mile marker 17 to mile marker 19</title>
+<pubDate>Thu, 12 Feb 2015 12:28:41 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.95290111327643&amp;lat=36.209270437338105&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 68 from mile marker 17 to mile marker 19<br/>Description: NM 68 - North of Embudo Station - Motorists are alerted that there will be lane closures on NM 68 with a flagging operation.  This work is from 9:00 a.m. to 3:00 p.m. until Feb. 26, 2015.  Drivers are urged to proceed with caution through the workzone, watch for maintenane personnel and reduce speed to the posted speed limit.<br/>Post Date: 2015-02-12 12:28:41.56<br/>Update Date: 2015-02-20 08:55:55.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">d8a61330e6a9a1a4201992686ce757e4</guid>
+<geo:lat>36.209270437338105</geo:lat><geo:long>-105.95290111327643</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>68</osow:routeNumber>
+<osow:mileMarkerFrom>17</osow:mileMarkerFrom>
+<osow:mileMarkerTo>19</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 05:49:59 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.69865992156492&amp;lat=33.52737898405546&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 37 from mile marker 0 to mile marker 14<br/>Description: Roads are wet with some icy spots. Cloudy conditions exist. crews are salt and cindering.Please use caution and reduce your speed, until further notice. <br/>Post Date: Mon Feb 23 05:49:59 MST 2015<br/>Update Date: 2015-02-23 08:55:30.0<br/>Expiration Date: Tue Feb 24 08:55:36 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">11c3781fc53dd43ab07b354491efc577</guid>
+<geo:lat>33.52737898405546</geo:lat><geo:long>-105.69865992156492</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>37</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>14</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 82 eastbound and westbound from mile marker 175 to mile marker 191</title>
+<pubDate>Thu, 24 Jul 2014 08:44:50 -0600</pubDate>
+<link>http://nmroads.com?lon=-103.19074331136004&amp;lat=33.03446304401945&amp;zoom=10</link>
+<description><![CDATA[Title: US 82 eastbound and westbound from mile marker 175 to mile marker 191<br/>Description: The project consists of Roadway Rehabilitation, Shoulder Work, and Permanent Signing.  Construction began July 24, 2014.  The project is for 320 Calendar Days ending in July 2015.  There is an 11' width restriction.  Please adhere to the Construction Signing and watch out for workers. Single lane closure on the project  expect 10+ minute delays due to pilot car operation.  Traffic will be slowed down to 45 MPH and 35 MPH throughout the work zones and be aware of potentially poor conditions due to winter weather.  Double Fines will be enforced. Fisher Sand and Gravel Superintendent, Jimmy Taylor 777-229-9506 .  NMDOT Project Manager, Donna Gililland 575-626-4857.<br/>Post Date: 2014-07-24 08:44:50.913<br/>Update Date: 2015-02-20 14:10:34.0<br/>Expiration Date: 2015-07-31 23:59:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">8127fc4aa68d67c20686e621ea90e018</guid>
+<geo:lat>33.03446304401945</geo:lat><geo:long>-103.19074331136004</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>82</osow:routeNumber>
+<osow:mileMarkerFrom>175</osow:mileMarkerFrom>
+<osow:mileMarkerTo>191</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:29:26 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.46690339600407&amp;lat=33.87138335522663&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are icy. Cloudy and windy conditions may result in reduced visibility.Crews are out salt & cindering. Please drive with caution and reduce your speed until further notice.<br/>Post Date: 2015-02-22 08:29:26.0<br/>Update Date: 2015-02-22 08:29:26.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">7b18f6fd0387b59e9426c9edfc81a619</guid>
+<geo:lat>33.87138335522663</geo:lat><geo:long>-103.46690339600407</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 41 from mile marker 55 to mile marker 56 Galisteo</title>
+<pubDate>Fri, 13 Jun 2014 10:34:04 -0600</pubDate>
+<link>http://nmroads.com?lon=-105.94215726247836&amp;lat=35.38287626694271&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 41 from mile marker 55 to mile marker 56 Galisteo<br/>Description: The New Mexico Department of Transportation (NMDOT) construction work on NM 41 near the Village of Galisteo between mile post 55.53 and mile post 56.1 on April 21, 2014.  This work will include the replacement of two bridges and roadway improvements between the two bridges.  The bridge work will be located at the San Cristobal Arroyo Bridge south of the Village of Galisteo and the Galisteo Creek Bridge on the southern edge of the Village of Galisteo.  Traffic Impacts:  Project has been placed on Winter Suspension until Spring of 2015. NM 41 roadway-  The northbound and southbound traffic will travel through one lane. during this time.  NO oversize vehicles or commercial loads are allowed through the work zone, and NO oversize loads allowed between Stanley and South of County Road 42. There is a 10 width restriction.  Motorists traveling south on NM 41 can use U.S. 285 south to Clines Corners to I-40.  Motorists traveling north on NM 41 can use I-40 east to Clines Corners to U.S. 285 north. The detours are equivalent to approximately 21 miles. Project anticipated to be completed June 2015; weather permitting  <br/>Post Date: 2014-06-13 10:34:04.987<br/>Update Date: 2015-02-11 12:25:20.037<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">9d72fcebb76a76a141eeafa8d6c4f4ed</guid>
+<geo:lat>35.38287626694271</geo:lat><geo:long>-105.94215726247836</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>41</osow:routeNumber>
+<osow:mileMarkerFrom>55</osow:mileMarkerFrom>
+<osow:mileMarkerTo>56</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sat, 21 Feb 2015 23:32:06 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.10931103085461&amp;lat=36.409118804623546&amp;zoom=10</link>
+<description><![CDATA[Title: US 87 eastbound and westbound from mile marker 0 to mile marker 9 Clayton<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: Sat Feb 21 23:32:06 MST 2015<br/>Update Date: 2015-02-22 22:30:35.0<br/>Expiration Date: Tue Feb 24 00:30:00 MST 2015]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">418ac004a8222bd1c7f94f58afd6a47b</guid>
+<geo:lat>36.409118804623546</geo:lat><geo:long>-103.10931103085461</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>87</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>9</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 11:03:39 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.55242775074495&amp;lat=36.93560678371038&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 17 from mile marker 0 to mile marker 9<br/>Description: NM 17 - Chama - Roadways are snow packed and icy.<br/>Post Date: Mon Feb 23 11:03:39 MST 2015<br/>Update Date: 2015-02-23 11:45:37.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">55fbe0a1e7489243558d76db92b0677d</guid>
+<geo:lat>36.93560678371038</geo:lat><geo:long>-106.55242775074495</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>17</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>9</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 07:54:53 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.46067366221412&amp;lat=35.39278133154981&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 104 eastbound and westbound from mile marker 0 to mile marker 106<br/>Description: FAIR DRIVING CONDITIONS:  NM 104 mile post 0 to mile post 44 (Las Vegas to Tucumcari), roadway is snow packed and icy in spots.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce your speed.  <br/>Post Date: Sun Feb 22 07:54:53 MST 2015<br/>Update Date: 2015-02-23 10:29:01.0<br/>Expiration Date: Tue Feb 24 10:29:07 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">01176cc706ca4a2d69f12436fb97a130</guid>
+<geo:lat>35.39278133154981</geo:lat><geo:long>-104.46067366221412</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>104</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>106</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Construction Closure - Interstate 25 northbound at mile marker 232 (PASEO DEL NORTE)</title>
+<pubDate>Fri, 13 Feb 2015 16:09:27 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.58381488677209&amp;lat=35.17525737153835&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound at mile marker 232 (PASEO DEL NORTE)<br/>Description:     Monday 2/16 and Monday 2/23 from 9 pm to 5 am each evening (Kiewit)  The I_25 northbound off ramp to Paseo Del Norte will be closed. The I_25 northbound Frontage Road at Pino will also be closed during this time. These closures are to effect repairs to wall barrier damaged by auto accident. Upon re-opening Tuesday 2/17 the Frontage road at this location will have the left lane closed.<br/>Post Date: 2015-02-13 16:09:27.303<br/>Update Date: 2015-02-19 15:23:56.0<br/>Expiration Date: 2015-02-24 05:00:00.0]]></description>
+<category>Construction Closure</category>
+<guid isPermaLink="false">78524ac5fbfa2f3f6011780669b551be</guid>
+<geo:lat>35.17525737153835</geo:lat><geo:long>-106.58381488677209</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>232</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>northbound</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 01:55:01 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.10659370982557&amp;lat=36.573350269074176&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 193 northbound and southbound from mile marker 0 to mile marker 41<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 01:55:01.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">601590c97549ee339bad45765c0de325</guid>
+<geo:lat>36.573350269074176</geo:lat><geo:long>-104.10659370982557</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>193</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>41</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 84 at mile marker 7</title>
+<pubDate>Tue, 07 Oct 2014 10:01:22 -0600</pubDate>
+<link>http://nmroads.com?lon=-104.24720764160156&amp;lat=34.57304763793945&amp;zoom=10</link>
+<description><![CDATA[Title: US 84 at mile marker 7<br/>Description: The NMDOT  bridge deck rehabilitation work on the Alamo Bridge  on US 84  at MP 7 and 17.8 in Ft. Sumner will consist of epoxy overlay .  Work is expected to start on Mid March, 2015. For more information contact NMDOT Project Manager Patricio Garcia (575)626-9889 or Qualcon, Inc. Contractor  Superintendent Leroy Molina (505)331-1650.<br/>Post Date: 2014-10-07 10:01:22.657<br/>Update Date: 2015-02-20 12:46:34.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">b64ef1210d249f974a906549d6a7b50d</guid>
+<geo:lat>34.57304763793945</geo:lat><geo:long>-104.24720764160156</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>84</osow:routeNumber>
+<osow:mileMarkerFrom>7</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 20:30:45 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.15770344062098&amp;lat=33.3559406840857&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 eastbound and westbound from mile marker 285 Hondo to mile marker 302<br/>Description: Roads are wet. Cloudy conditions exist.<br/>Post Date: Sun Feb 22 20:30:45 MST 2015<br/>Update Date: 2015-02-23 12:30:02.0<br/>Expiration Date: Tue Feb 24 12:30:08 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">e6b0766b10ce0f2547e4194e21b89baf</guid>
+<geo:lat>33.3559406840857</geo:lat><geo:long>-105.15770344062098</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>285</osow:mileMarkerFrom>
+<osow:mileMarkerTo>302</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:29:21 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.66111491697058&amp;lat=33.959059193616376&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: I-25 and all secondary routes has light snow fall accumulation with slick roadways. Motorists are advised to reduce speed and to proceed with caution. Updates will be posted as conditions change.<br/>Post Date: Mon Feb 23 06:29:21 MST 2015<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">79a4e9229d625f8ddb7f11376c755805</guid>
+<geo:lat>33.959059193616376</geo:lat><geo:long>-106.66111491697058</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Alert - US 380 eastbound and westbound at mile marker 43</title>
+<pubDate>Tue, 02 Dec 2014 15:01:56 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.18570850230884&amp;lat=33.800026697645094&amp;zoom=10</link>
+<description><![CDATA[Title: US 380 eastbound and westbound at mile marker 43<br/>Description: White Sands Missile Range periodically has missile firings over US 70 and/or US 380. During the firings the road or roads will be temporarily closed. Please call 575-678-1178 for daily information on possible closure dates and times for firings. This is a permanent alert and will not be updated regularly. (dm)<br/>Post Date: 2014-12-02 15:01:56.003<br/>Update Date: 2015-01-29 08:35:50.35<br/>Expiration Date: unknown<br/>]]></description>
+<category>Alert</category>
+<guid isPermaLink="false">3214c16b167ae305e067dfd0e36e0aaf</guid>
+<geo:lat>33.800026697645094</geo:lat><geo:long>-106.18570850230884</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>380</osow:routeNumber>
+<osow:mileMarkerFrom>43</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 550 eastbound and westbound at mile marker 1</title>
+<pubDate>Tue, 30 Dec 2014 13:31:51 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.54876262438574&amp;lat=35.319729922421125&amp;zoom=10</link>
+<description><![CDATA[Title: US 550 eastbound and westbound at mile marker 1<br/>Description:     Ongoing and until further notice (RMCI/Town of Bernalillo) U_S 5_50 both direction at Don Tomas (Bernalillo) will have various lane closures at night and daytime shoulder work for intersection improvements.<br/>Post Date: 2014-12-30 13:31:51.847<br/>Update Date: 2015-02-19 15:23:38.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">d6b149c29d6c636e266d862cec9d4dbe</guid>
+<geo:lat>35.319729922421125</geo:lat><geo:long>-106.54876262438574</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>550</osow:routeNumber>
+<osow:mileMarkerFrom>1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:38:55 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.36363340176341&amp;lat=34.08620400824567&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Snow accumulation has roadways slick and icy. Snow removal opeations are in full affect. Motorists are advised to reduce speed and proceed with caution. Updates will be posted as conditions change.<br/>Post Date: 2015-02-23 06:38:55.0<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">31e0c9d6be1ba18d29af09a718353655</guid>
+<geo:lat>34.08620400824567</geo:lat><geo:long>-107.36363340176341</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 09:40:58 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.71595249078422&amp;lat=36.19204684476165&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 75 from mile marker 7 to mile marker 20 Rock Wall<br/>Description: NM 75 - Dixon - Penasco - Roads are snow packed and icy. Drivers advised to use caution.  This event will be updated as conditions change. <br/>Post Date: 2015-02-23 09:40:58.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">80e2b6a5b86a7249e802d93936b6a8e8</guid>
+<geo:lat>36.19204684476165</geo:lat><geo:long>-105.71595249078422</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>75</osow:routeNumber>
+<osow:mileMarkerFrom>7</osow:mileMarkerFrom>
+<osow:mileMarkerTo>20</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:14:15 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.34193892224106&amp;lat=32.914137949556775&amp;zoom=10</link>
+<description><![CDATA[Title: US 82 from mile marker 16 Cloudcroft to mile marker 74<br/>Description: Roads are wet. Cloudy conditions exist. Motorists should reduce speed and proceed with caution.<br/>Post Date: 2015-02-23 10:14:15.0<br/>Update Date: 2015-02-23 10:14:15.0<br/>Expiration Date: Tue Feb 24 10:14:21 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">3ca2a388f4452a37e9790d865a02f556</guid>
+<geo:lat>32.914137949556775</geo:lat><geo:long>-105.34193892224106</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>82</osow:routeNumber>
+<osow:mileMarkerFrom>16</osow:mileMarkerFrom>
+<osow:mileMarkerTo>74</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 20:32:07 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.88325456388779&amp;lat=34.69238924622917&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 252 northbound and southbound from mile marker 13 to mile marker 43 Ragland<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: 2015-02-22 20:32:07.0<br/>Update Date: 2015-02-22 20:32:07.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">bbad5338cce4f5627e828b4d2940c19a</guid>
+<geo:lat>34.69238924622917</geo:lat><geo:long>-103.88325456388779</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>252</osow:routeNumber>
+<osow:mileMarkerFrom>13</osow:mileMarkerFrom>
+<osow:mileMarkerTo>43</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 21:03:51 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.20422702377468&amp;lat=36.02194579562638&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 402 northbound and southbound from mile marker 0 Nara Visa to mile marker 62<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: 2015-02-22 21:03:51.0<br/>Update Date: 2015-02-22 21:03:51.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">b3ad199494ae5dbd94cbb1690029beaf</guid>
+<geo:lat>36.02194579562638</geo:lat><geo:long>-103.20422702377468</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>402</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>62</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:42:19 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.98396943008314&amp;lat=36.120037917972766&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 96 northbound and southbound from mile marker 0 to mile marker 8<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 96, mile marker 0-8 (from US 550 to Regina).  Road is snow packed and icy.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:42:19.0<br/>Update Date: 2015-02-23 04:42:19.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">2ccc9163a1ff501e39232f8c88ca8e76</guid>
+<geo:lat>36.120037917972766</geo:lat><geo:long>-106.98396943008314</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>96</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>8</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 04:18:17 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.46821510172974&amp;lat=36.95041478817626&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 196 from mile marker 0 Costilla to mile marker 11<br/>Description: Roads are snow packed and icy. <br/>Post Date: 2015-02-22 04:18:17.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">753b0390a10e966ad4bfb3304e46316d</guid>
+<geo:lat>36.95041478817626</geo:lat><geo:long>-105.46821510172974</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>196</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>11</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 54 northbound and southbound from mile marker 71 to mile marker 73</title>
+<pubDate>Wed, 18 Feb 2015 12:57:45 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.97247540331739&amp;lat=32.95563514215789&amp;zoom=10</link>
+<description><![CDATA[Title: US 54 northbound and southbound from mile marker 71 to mile marker 73<br/>Description: Roadway reconstruction underway consisting of full bridge reconstruction between MP 72.157 and MP 72.810 .One lane travel through detour zone north and south bound.  The Contractor may be working 7 days a week 6:00am to 6:00pm NMDOT urges motorists to watch for equipment and personnel in the work zone and adhere to all construction signage.  Speed limits have been reduced to 40 MPH.  THERE IS A 11' WIDTH RESTRICTION IN THIS AREA, ANY VEHICHILE OVER THIS MUST SEEK ALTERANATIVE ROUTE. Project is set to be complete January 1, 2016.Contacts:Jerry Hickman, NMDOT Project Manager575-585-2090 or 575-626-0804Warren Dozier, G. Sandoval Project Superintendent505-238-2970 <br/>Post Date: 2015-02-18 12:57:45.0<br/>Update Date: 2015-02-18 13:00:24.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">8607fe455983f96219d8909c6898f620</guid>
+<geo:lat>32.95563514215789</geo:lat><geo:long>-105.97247540331739</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>54</osow:routeNumber>
+<osow:mileMarkerFrom>71</osow:mileMarkerFrom>
+<osow:mileMarkerTo>73</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - US 70 eastbound and westbound from mile marker 149 to mile marker 148 Las Cruces</title>
+<pubDate>Fri, 11 Apr 2014 15:44:46 -0600</pubDate>
+<link>http://nmroads.com?lon=-106.78330376191651&amp;lat=32.32701393627645&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 eastbound and westbound from mile marker 149 to mile marker 148 Las Cruces<br/>Description: NMDOT with Sandoval Construction have placed traffic control along US 70 North Main with lane restrictions  of 10 foot, and reduction in speed throughout the work zone. Traffic has been switched to the eastbound lanes between North Main and Gallagher Drive, and then split again from Gallagher to just north of Madrid. There will be NO through lane or left turn access on Madrid Street to US 70 North Main until further notice. The contractor has extended the concrete wall barrier in order to install utility lines. Businesses are open, please contact them for hours of operation. Motorists are encouraged to proceed with caution and expect delay. Please seek an alternate route due to work zone.<br/>Post Date: 2014-04-11 15:44:46.31<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">b6089aa22ccd9f63d13249d7a8c93f1f</guid>
+<geo:lat>32.32701393627645</geo:lat><geo:long>-106.78330376191651</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>149</osow:mileMarkerFrom>
+<osow:mileMarkerTo>148</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 13:57:09 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.1859508820247&amp;lat=33.64662857379971&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 from mile marker 335 to mile marker 385<br/>Description: Roads are wet. Cloudy conditions exist.<br/>Post Date: Sun Feb 22 13:57:09 MST 2015<br/>Update Date: 2015-02-23 12:33:05.0<br/>Expiration Date: Tue Feb 24 01:16:00 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">e669c490224e0267297461fc79c60738</guid>
+<geo:lat>33.64662857379971</geo:lat><geo:long>-104.1859508820247</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>335</osow:mileMarkerFrom>
+<osow:mileMarkerTo>385</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 176 eastbound and westbound from mile marker 0 to mile marker 10</title>
+<pubDate>Tue, 13 Jan 2015 15:21:35 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.65722047209762&amp;lat=32.52926377344567&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 176 eastbound and westbound from mile marker 0 to mile marker 10<br/>Description: The project consists of Roadway Rehabilitation, Shoulder Work, Fencing and Permanent Signing.  Construction began January 5, 2015.  The project is for 280 Calendar Days ending in October 2015.  There is an 10' width restriction and no wide loads permitted.  Please adhere to the Construction Signing and watch out for workers.  Traffic will be slowed down to 55 MPH and 45 MPH throughout the work zones and be aware of potentially poor road conditions due to winter weather.  Double Fines will be enforced. James Hamilton Construction Superintendent, James Fields 575-313-4328 .  NMDOT Project Manager, Donna Gililland 575-626-4857.<br/>Post Date: 2015-01-13 15:21:35.787<br/>Update Date: 2015-02-20 14:09:37.0<br/>Expiration Date: 2015-10-31 23:59:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">349d8be0c6284911061619983cc45d92</guid>
+<geo:lat>32.52926377344567</geo:lat><geo:long>-103.65722047209762</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>176</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>10</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 02:47:08 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.0926969377911&amp;lat=35.57021403016893&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 from mile marker 264 (COCHITI/NM 16) to mile marker 290 (US 285)<br/>Description: Roads are wet with some icy spots. Intermittent snow a windy conditions are causing limited visibility.<br/>Post Date: Mon Feb 23 02:47:08 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: Tue Feb 24 02:47:00 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">48494e09847b92319c474d841f7eac5a</guid>
+<geo:lat>35.57021403016893</geo:lat><geo:long>-106.0926969377911</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>264</osow:mileMarkerFrom>
+<osow:mileMarkerTo>290</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 03:26:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.01957407366378&amp;lat=35.668296870908016&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 599 from mile marker 0 to mile marker 13<br/>Description: Roads are dry. Flurries may be reducing visibility.<br/>Post Date: Mon Feb 23 03:26:31 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: Tue Feb 24 03:26:13 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">59bfa4f910a7071f8cd4455edd17aa66</guid>
+<geo:lat>35.668296870908016</geo:lat><geo:long>-106.01957407366378</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>599</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>13</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 04:16:37 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.59529078182129&amp;lat=36.72498675835245&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 522 from mile marker 0 to mile marker 41<br/>Description: NM 522 - Questa -Roads are snow packed and icy. Drivers advised to use caution.  This event will be updated as conditions change. <br/>Post Date: Sun Feb 22 04:16:37 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">1f36e0e08abef6bdeb349ca7f3f319b8</guid>
+<geo:lat>36.72498675835245</geo:lat><geo:long>-105.59529078182129</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>522</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>41</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 70 northbound and southbound at mile marker 421</title>
+<pubDate>Mon, 26 Aug 2013 16:29:34 -0600</pubDate>
+<link>http://nmroads.com?lon=-103.36481884711672&amp;lat=34.16830331787806&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 northbound and southbound at mile marker 421<br/>Description: Road construction  underway on  US 70, mile post 421.60 to mile post 423.330, from 6:00 am to 6:00 pm Monday thru Friday. Work is underway from the intersection of  S. Ave K/Second St to the intersection S. Ave C/ Second St. Ave C to Ave I on First St.  Motorists can expect one lane closure in this area and are asked to observe construction signing and watch for personnel working in the area. Width restriction 11 Feet.  Expected completion is August , 2013. Emergency  Contacts: NMDOT  Project Manager Richard Gonzales, 575-626-9875. Pat Garcia Asst. Supervisor, 575-626-9889. Contractor Constructors Inc. Angel Vega Superintendent,  575-706-7310, John Guldemann, 505-397-4102 <br/>Post Date: 2013-08-26 16:29:34.077<br/>Update Date: 2013-08-26 16:29:34.077<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">59e075821a55150e492aba9fe53419e6</guid>
+<geo:lat>34.16830331787806</geo:lat><geo:long>-103.36481884711672</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>421</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 518 from mile marker 29 Mora to mile marker 30</title>
+<pubDate>Mon, 16 Feb 2015 10:23:55 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.33353967433453&amp;lat=35.97530928957007&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 from mile marker 29 Mora to mile marker 30<br/>Description: Utility work ongoing.  Speed reduced in the work zone area.  Please use caution when traveling in this area. Event will be updated weekly during construction.<br/>Post Date: 2015-02-16 10:23:55.0<br/>Update Date: 2015-02-16 10:23:55.0<br/>Expiration Date: 2015-03-07 00:00:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">c445a55a829a910ded2106f0d2f4953b</guid>
+<geo:lat>35.97530928957007</geo:lat><geo:long>-105.33353967433453</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>29</osow:mileMarkerFrom>
+<osow:mileMarkerTo>30</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:58:51 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.18185456432911&amp;lat=34.92405643390437&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 156 eastbound and westbound from mile marker 0 to mile marker 60<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: Sun Feb 22 08:58:51 MST 2015<br/>Update Date: 2015-02-22 20:31:29.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">0601153db62b0a4bf25f949a8a18ac48</guid>
+<geo:lat>34.92405643390437</geo:lat><geo:long>-104.18185456432911</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>156</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>60</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - New Mexico 47 northbound at mile marker 41</title>
+<pubDate>Fri, 13 Feb 2015 16:10:50 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.66229170999277&amp;lat=34.95282981102009&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 47 northbound at mile marker 41<br/>Description:     Monday 2/16 through Friday 2/27 from 7 am to 6 pm each weekday (Qualcon)  NM 47 northbound over I-25 at mile marker 41.6 (Broadway Interchange) will have various lane closures reducing traffic to one lane only during bridge maintenance.<br/>Post Date: 2015-02-13 16:10:50.273<br/>Update Date: 2015-02-19 15:22:22.0<br/>Expiration Date: 2015-02-27 18:00:00.0]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">c631f9a7cc97aab052db67acf76e1808</guid>
+<geo:lat>34.95282981102009</geo:lat><geo:long>-106.66229170999277</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>47</osow:routeNumber>
+<osow:mileMarkerFrom>41</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>northbound</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:35:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.92590673898863&amp;lat=34.550777931902815&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are wet, snow packed and icy in spots. <br/>Post Date: 2015-02-23 06:35:31.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">50062960d291c150efaa5f1aec12da5b</guid>
+<geo:lat>34.550777931902815</geo:lat><geo:long>-105.92590673898863</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Seasonal Closure - New Mexico 159 from mile marker 12 to mile marker 23</title>
+<pubDate>Fri, 23 May 2014 11:19:34 -0600</pubDate>
+<link>http://nmroads.com?lon=-108.67961139408146&amp;lat=33.377489559734315&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 159 from mile marker 12 to mile marker 23<br/>Description: NM 159  near Mogollon from mile marker 12 - 23 is now CLOSED for the Winter. Safety measures have been placed in order to secure the area for the traveling public. Please avoid this route until conditions change in 2015.<br/>Post Date: 2014-05-23 11:19:34.19<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: 2015-05-31 12:00:00.0]]></description>
+<category>Seasonal Closure</category>
+<guid isPermaLink="false">5573ec1a7a171f9cc354486474585f76</guid>
+<geo:lat>33.377489559734315</geo:lat><geo:long>-108.67961139408146</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>159</osow:routeNumber>
+<osow:mileMarkerFrom>12</osow:mileMarkerFrom>
+<osow:mileMarkerTo>23</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Severe Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:30:14 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.89780743690137&amp;lat=33.664370669286335&amp;zoom=10</link>
+<description><![CDATA[Title: US 380 from mile marker 43 to mile marker 85 Capitan<br/>Description: Roads are snow packed and icy. Visibility is poor due to blizzard conditions.Crews are out salt and cindering.Please use caution and reduce your speed.<br/>Post Date: 2015-02-23 06:30:14.0<br/>Update Date: 2015-02-23 10:28:45.178<br/>Expiration Date: unknown<br/>]]></description>
+<category>Severe Driving Conditions</category>
+<guid isPermaLink="false">5f139c0fd724161b5bc5f344bb86e469</guid>
+<geo:lat>33.664370669286335</geo:lat><geo:long>-105.89780743690137</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>380</osow:routeNumber>
+<osow:mileMarkerFrom>43</osow:mileMarkerFrom>
+<osow:mileMarkerTo>85</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sat, 21 Feb 2015 21:25:24 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.41240277312738&amp;lat=36.05528738437202&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 northbound and southbound from mile marker 35 Holman to mile marker 42<br/>Description: DIFFICULT DRIVING CONDITIONS:  NM 518 mile post 35 to mile post 42 (Mora to Holman Hill), roadway is snow packed and icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce your speed.  <br/>Post Date: Sat Feb 21 21:25:24 MST 2015<br/>Update Date: 2015-02-23 10:11:08.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">3dc60fed61f107fc77c885fe1936fdd2</guid>
+<geo:lat>36.05528738437202</geo:lat><geo:long>-105.41240277312738</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>35</osow:mileMarkerFrom>
+<osow:mileMarkerTo>42</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 518 from mile marker 29 Mora to mile marker 30</title>
+<pubDate>Fri, 13 Feb 2015 13:19:14 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.33353967433453&amp;lat=35.97530928957007&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 from mile marker 29 Mora to mile marker 30<br/>Description: Utility work ongoing.  Speed reduced in the work zone area.  Please use caution when traveling in this area. Event will be updated weekly during construction.<br/>Post Date: 2015-02-13 13:19:14.67<br/>Update Date: 2015-02-13 13:19:14.67<br/>Expiration Date: 2015-03-07 00:00:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">20a44cc80ab5984dd6941022fe94dc89</guid>
+<geo:lat>35.97530928957007</geo:lat><geo:long>-105.33353967433453</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>29</osow:mileMarkerFrom>
+<osow:mileMarkerTo>30</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 07:45:26 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.73214013220405&amp;lat=33.391883762473256&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 532 from mile marker 0 Alto to mile marker 12<br/>Description: Roads are wet with some icy spots. Cloudy conditions exist. crews are salt and cindering.Please use caution and reduce your speed, until further notice. <br/>Post Date: Sun Feb 22 07:45:26 MST 2015<br/>Update Date: 2015-02-23 08:57:43.0<br/>Expiration Date: Tue Feb 24 08:57:48 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">44672d773b5221686b39cc59f05a5050</guid>
+<geo:lat>33.391883762473256</geo:lat><geo:long>-105.73214013220405</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>532</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>12</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Severe Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:32:50 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.8354014741136&amp;lat=33.7441153264061&amp;zoom=10</link>
+<description><![CDATA[Title: US 54 from mile marker 123 Nogal to mile marker 139 Jicarilla<br/>Description: Roads are snow packed and icy. Visibility is poor due to blizzard conditions.Crews are plowing,salt and cindering.Please drive with caution and reduce your speed.<br/>Post Date: 2015-02-23 06:32:50.0<br/>Update Date: 2015-02-23 10:28:45.178<br/>Expiration Date: unknown<br/>]]></description>
+<category>Severe Driving Conditions</category>
+<guid isPermaLink="false">ed85bc986b9e38e814feaa9759ccd7d2</guid>
+<geo:lat>33.7441153264061</geo:lat><geo:long>-105.8354014741136</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>54</osow:routeNumber>
+<osow:mileMarkerFrom>123</osow:mileMarkerFrom>
+<osow:mileMarkerTo>139</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 18:51:09 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.14594449355187&amp;lat=36.04992390087528&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 442 northbound and southbound from mile marker 0 La Cueva to mile marker 21 Ocate<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 18:51:09.0<br/>Update Date: 2015-02-22 18:51:09.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">4fcece16e9c5bf33c0545ae6c51606bd</guid>
+<geo:lat>36.04992390087528</geo:lat><geo:long>-105.14594449355187</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>442</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>21</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:06:11 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.6048083495511&amp;lat=36.02482288123226&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 120 eastbound and westbound from mile marker 0 Black Lake to mile marker 118<br/>Description: DIFFICULT DRIVING CONDITIONS: NM 120 from mile marker 0 to mile marker 118 (Black Lake to Yates), roadway is snow packed and icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce your speed in this area.   <br/>Post Date: 2015-02-22 08:06:11.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">95cd718b9392aa450f0a2570628f4846</guid>
+<geo:lat>36.02482288123226</geo:lat><geo:long>-104.6048083495511</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>120</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>118</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 11:48:18 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.78295782782669&amp;lat=32.86481589169745&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 6563 from mile marker 0 to mile marker 15 Sunspot<br/>Description: Roads are wet with some icy spots. Flurries may be reducing visibility.Crews are out plowing,salt and cindering,Please drive with caution and reduce your speed.<br/>Post Date: Sun Feb 22 11:48:18 MST 2015<br/>Update Date: 2015-02-22 11:51:33.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">43dd03fdf3578397f7c25b78db8d5938</guid>
+<geo:lat>32.86481589169745</geo:lat><geo:long>-105.78295782782669</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>6563</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>15</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 04:17:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.47220362159123&amp;lat=36.70050961317208&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 38 from mile marker 0 Questa to mile marker 16<br/>Description: NM 38 - Questa -Roads are snow packed and icy. Drivers advised to use caution.  This event will be updated as conditions change. <br/>Post Date: Sun Feb 22 04:17:31 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">dc2edfd76055cdbf6e1885626ec2c19d</guid>
+<geo:lat>36.70050961317208</geo:lat><geo:long>-105.47220362159123</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>38</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>16</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:35:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.27114726898145&amp;lat=34.508661054857264&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are wet, snow packed and icy in spots. <br/>Post Date: 2015-02-23 06:35:31.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">22e00d7ff27efe38a88144583f7fbe38</guid>
+<geo:lat>34.508661054857264</geo:lat><geo:long>-106.27114726898145</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:17:47 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.34051500981029&amp;lat=33.08154720567745&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 2 northbound and southbound from mile marker 13 to mile marker 16<br/>Description: Roads are wet with some icy spots. Snow and blowing snow are reducing visibility. Please use caution and reduce your speed<br/>Post Date: 2015-02-23 10:17:47.0<br/>Update Date: 2015-02-23 10:17:47.0<br/>Expiration Date: Tue Feb 24 10:17:53 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">cf75823088ba3c99be58791cf1f91657</guid>
+<geo:lat>33.08154720567745</geo:lat><geo:long>-104.34051500981029</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>2</osow:routeNumber>
+<osow:mileMarkerFrom>13</osow:mileMarkerFrom>
+<osow:mileMarkerTo>16</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:02:47 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.11559042010146&amp;lat=35.253115847913584&amp;zoom=10</link>
+<description><![CDATA[Title: US 84 northbound and southbound from mile marker 63 to mile marker 103 Romeroville<br/>Description: DIFFICULT DRIVING CONDITIONS:  US 84 mile post 63 to mile post 103 (I-40 to Romeroville), roadway is snow packed and icy with intermittent snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sun Feb 22 08:02:47 MST 2015<br/>Update Date: 2015-02-23 03:51:30.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">4f50f993b5caaf361b9b333b1117f908</guid>
+<geo:lat>35.253115847913584</geo:lat><geo:long>-105.11559042010146</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>84</osow:routeNumber>
+<osow:mileMarkerFrom>63</osow:mileMarkerFrom>
+<osow:mileMarkerTo>103</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 05:53:27 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.54519173842594&amp;lat=33.54518867445633&amp;zoom=10</link>
+<description><![CDATA[Title: US 380 from mile marker 85 Capitan to mile marker 89<br/>Description: Roads are wet with some icy spots. Cloudy conditions exist. crews are salt and cindering.Please use caution and reduce your speed, until further notice. <br/>Post Date: Mon Feb 23 05:53:27 MST 2015<br/>Update Date: 2015-02-23 08:54:37.0<br/>Expiration Date: Tue Feb 24 08:54:43 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">6ddbde2aee4812ff992e79edbbfac00f</guid>
+<geo:lat>33.54518867445633</geo:lat><geo:long>-105.54519173842594</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>380</osow:routeNumber>
+<osow:mileMarkerFrom>85</osow:mileMarkerFrom>
+<osow:mileMarkerTo>89</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:09:13 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.75524022702976&amp;lat=33.026348059169315&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 13 eastbound and westbound from mile marker 0 to mile marker 35<br/>Description: Roads are icy. Snow and blowing snow are reducing visibility. Crew is salting and plowing. Motorists should reduce speed and proceed with caution.<br/>Post Date: Mon Feb 23 10:09:13 MST 2015<br/>Update Date: 2015-02-23 10:12:28.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">41e6b9a53d374f02589c1b308d707d1f</guid>
+<geo:lat>33.026348059169315</geo:lat><geo:long>-104.75524022702976</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>13</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>35</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 518 from mile marker 29 Mora to mile marker 30</title>
+<pubDate>Wed, 28 Jan 2015 14:12:28 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.33353967433453&amp;lat=35.97530928957007&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 from mile marker 29 Mora to mile marker 30<br/>Description: Utilitiy repairs ongoing.  Please observe speed reduction in work area.  Minor delays can be expected.<br/>Post Date: 2015-01-28 14:12:28.14<br/>Update Date: 2015-02-18 11:23:10.0<br/>Expiration Date: 2015-03-06 01:00:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">9b60818c5612ff48201b70890159e5c8</guid>
+<geo:lat>35.97530928957007</geo:lat><geo:long>-105.33353967433453</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>29</osow:mileMarkerFrom>
+<osow:mileMarkerTo>30</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:58:02 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.80916168466446&amp;lat=35.56087523461443&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 from mile marker 290 (US 285) to mile marker 302<br/>Description: Roads are wet with some icy spots. Intermittent snow a windy conditions are causing limited visibility.<br/>Post Date: Mon Feb 23 06:58:02 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: Tue Feb 24 10:47:58 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">f63b9cd364b1303a29815d0649ed45ac</guid>
+<geo:lat>35.56087523461443</geo:lat><geo:long>-105.80916168466446</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>290</osow:mileMarkerFrom>
+<osow:mileMarkerTo>302</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:04:26 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.52530287262468&amp;lat=34.95711117174426&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 278 northbound and southbound from mile marker 0 to mile marker 33<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: Sun Feb 22 09:04:26 MST 2015<br/>Update Date: 2015-02-22 20:30:15.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">62f0b18f58d1fd1082535950772f33e0</guid>
+<geo:lat>34.95711117174426</geo:lat><geo:long>-103.52530287262468</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>278</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>33</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 04:19:33 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.98197059587054&amp;lat=36.74493213107475&amp;zoom=10</link>
+<description><![CDATA[Title: US 285 from mile marker 374 La Petaca to mile marker 408<br/>Description: US 285 - Tres Piedras to Colorado State Line - Roads are snow packed and icy. Drivers are discouraged travel due to snow blowing and low visibility.  This event will be updated as conditions change.<br/>Post Date: Sun Feb 22 04:19:33 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">4ae8e54f0ac9be7439818c2c2cd235c7</guid>
+<geo:lat>36.74493213107475</geo:lat><geo:long>-105.98197059587054</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>285</osow:routeNumber>
+<osow:mileMarkerFrom>374</osow:mileMarkerFrom>
+<osow:mileMarkerTo>408</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - Interstate 25 northbound and southbound from mile marker 79 (T OR C NORTH) to mile marker 93</title>
+<pubDate>Mon, 30 Jun 2014 09:32:22 -0600</pubDate>
+<link>http://nmroads.com?lon=-107.26587873254553&amp;lat=33.25433842509498&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 79 (T OR C NORTH) to mile marker 93<br/>Description: North of Truth or Consequences the NMDOT and Mountain States Constructors have shifted traffic the north and southbound lanes where motorists will travel on the newly constructed bridge for north and southbound movement. Traffic will continue be restrict to 12.5 foot width restrictions between mile markers 88 to 92 as concrete wall barriers are placed. The contractor is currently reconstructing the existing bridge which requires the northbound OFF ramp to be CLOSED at exit 92 due to reconstruction of the northbound lanes, please follow traffic control signage within the work zone.    Project is scheduled to be complete by June 2015. Reduce speed and proceed with extreme caution as you travel through this area.<br/>Post Date: 2014-06-30 09:32:22.027<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">f247e1f766e1b40ab164625645217718</guid>
+<geo:lat>33.25433842509498</geo:lat><geo:long>-107.26587873254553</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>79</osow:mileMarkerFrom>
+<osow:mileMarkerTo>93</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:32:24 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.95079448122974&amp;lat=34.466500663820355&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are wet with some icy spots. Cloudy and windy may result in reduced visibility. Motorists should reduce speed and drive with caution.<br/>Post Date: Sun Feb 22 08:32:24 MST 2015<br/>Update Date: 2015-02-23 12:37:25.0<br/>Expiration Date: Tue Feb 24 12:37:30 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">49377c778abf274b4ba5bf80a97c2724</guid>
+<geo:lat>34.466500663820355</geo:lat><geo:long>-104.95079448122974</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 17:51:28 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.82513813928709&amp;lat=33.36906495804195&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 from mile marker 300 to mile marker 328<br/>Description: Roads are wet. Cloudy conditions exist.<br/>Post Date: Sun Feb 22 17:51:28 MST 2015<br/>Update Date: 2015-02-23 12:30:26.0<br/>Expiration Date: Tue Feb 24 12:30:32 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">6de4a0d849d542a333f25144d8004ed2</guid>
+<geo:lat>33.36906495804195</geo:lat><geo:long>-104.82513813928709</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>300</osow:mileMarkerFrom>
+<osow:mileMarkerTo>328</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 12:04:13 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.38873216539085&amp;lat=33.692966042767225&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 246 eastbound and westbound from mile marker 0 Capitan to mile marker 36<br/>Description: Roads are wet. Motorists should watch for ice in shady areas and bridges and culverts.  <br/>Post Date: 2015-02-23 12:04:13.0<br/>Update Date: 2015-02-23 12:04:13.0<br/>Expiration Date: Tue Feb 24 12:04:19 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">ade3b160293f031fec2fba5953a07142</guid>
+<geo:lat>33.692966042767225</geo:lat><geo:long>-105.38873216539085</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>246</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>36</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:35:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.5135620572721&amp;lat=34.67703022153287&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are wet, snow packed and icy in spots. <br/>Post Date: 2015-02-23 06:35:31.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">e7b4b48e0e000851216f6672458adf46</guid>
+<geo:lat>34.67703022153287</geo:lat><geo:long>-105.5135620572721</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sat, 21 Feb 2015 13:01:38 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.6700979044009&amp;lat=36.181280175188654&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 303 to mile marker 460 (RATON PASS/PORT OF ENTRY)<br/>Description: FAIR DRIVING CONDITIONS:  I-25 mile post 303 to mile post 460 (Rowe to Raton), roadway is snow packed and icy in spots.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce your speed.  <br/>Post Date: Sat Feb 21 13:01:38 MST 2015<br/>Update Date: 2015-02-23 10:18:44.0<br/>Expiration Date: Tue Feb 24 10:18:50 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">5b809521bc64f908b58ba4debd107de9</guid>
+<geo:lat>36.181280175188654</geo:lat><geo:long>-104.6700979044009</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>303</osow:mileMarkerFrom>
+<osow:mileMarkerTo>460</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 14:42:26 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.7817269704766&amp;lat=36.67192147422839&amp;zoom=10</link>
+<description><![CDATA[Title: US 64 eastbound and westbound from mile marker 346 Raton to mile marker 430 Clayton<br/>Description: FAIR DRIVING CONDITIONS:  US 64 mile post 346 to mile post 430 (Raton to Clayton), roadway is snow packed and icy in spots.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sun Feb 22 14:42:26 MST 2015<br/>Update Date: 2015-02-23 10:22:12.0<br/>Expiration Date: Tue Feb 24 10:22:17 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">c6bce61ec7a9e4365a0f8d4755716434</guid>
+<geo:lat>36.67192147422839</geo:lat><geo:long>-103.7817269704766</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>64</osow:routeNumber>
+<osow:mileMarkerFrom>346</osow:mileMarkerFrom>
+<osow:mileMarkerTo>430</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:29:21 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.0391080222224&amp;lat=33.19219116858996&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: I-25 and all secondary routes has light snow fall accumuation with slick roadways. Motorists are advised to reduce speed and to proceed with caution. Updates will be posted as conditions change.<br/>Post Date: Mon Feb 23 06:29:21 MST 2015<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">a0e4e4b340dbb0cabd3c33e4cd15f1e6</guid>
+<geo:lat>33.19219116858996</geo:lat><geo:long>-107.0391080222224</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 62 northbound and southbound at mile marker 35</title>
+<pubDate>Wed, 02 Apr 2014 08:20:11 -0600</pubDate>
+<link>http://nmroads.com?lon=-104.22843170166016&amp;lat=32.40934753417969&amp;zoom=10</link>
+<description><![CDATA[Title: US 62 northbound and southbound at mile marker 35<br/>Description: The NMDOT is doing bridge deck rehabilitation work on the Dark Canyon Bridge on US 62/180  at MP 35 in Carlsbad.  Work is under suspension until March 2015. For more information contact NMDOT Acting Project Manager Brian Torres (575)626-4278 or Hasse Contracting Superintendent Christian Hasse (505) 400-2336.<br/>Post Date: 2014-04-02 08:20:11.617<br/>Update Date: 2015-02-17 09:44:44.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">8b493d795fe506b2dadd037f8d1f58ee</guid>
+<geo:lat>32.40934753417969</geo:lat><geo:long>-104.22843170166016</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>62</osow:routeNumber>
+<osow:mileMarkerFrom>35</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 285 from mile marker 248 Fying C Ranch to mile marker 250</title>
+<pubDate>Wed, 17 Sep 2014 15:09:04 -0600</pubDate>
+<link>http://nmroads.com?lon=-105.66153255087225&amp;lat=35.00367446210964&amp;zoom=10</link>
+<description><![CDATA[Title: US 285 from mile marker 248 Fying C Ranch to mile marker 250<br/>Description: The New Mexico Department of Transportation (NMDOT) continues work on the  U.S. 285/ I-40 interchange at Clines Corners.  This improvement work includes the lengthening and realignment of the westbound exit ramp, the realignment of the westbound entrance ramp, and the lengthening of the eastbound on and off ramps on I-40.  The U.S. 285 bridge over I-40 will be widened 24 feet to accommodate two lanes of traffic each way.The work on U.S. 285 from mile marker 248.84 to mile marker 250.46 includes the reconstruction and widening of the existing lanes to accommodate two lanes of traffic each way.  Other work on the project includes new drainage structures, new curb and gutter, new signing and the installation of an intelligent transportation system. Traffic Impacts:  There are no lane closure on I-40 at this time.The contractor is currently working on US285 overpass.  There is a northbound lane closure on US 285.  The US 285 northbound and southbound traffic  are traveling in one lane in each direction.   Drivers are urged to proceed with caution through the work zone, observe traffic control signs and reduce speed to the posted limit.<br/>Post Date: 2014-09-17 15:09:04.397<br/>Update Date: 2015-02-11 12:25:20.037<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">b6c416c35b72909319134112a7d3fff2</guid>
+<geo:lat>35.00367446210964</geo:lat><geo:long>-105.66153255087225</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>285</osow:routeNumber>
+<osow:mileMarkerFrom>248</osow:mileMarkerFrom>
+<osow:mileMarkerTo>250</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:10:00 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.74168464939238&amp;lat=34.0312971998798&amp;zoom=10</link>
+<description><![CDATA[Title: US 285 northbound and southbound from mile marker 204 Vaughn to mile marker 104<br/>Description: Roads are wet with some icy spots. Cloudy and windy may result in reduced visibility. Motorists should reduce speed and proceed with caution.<br/>Post Date: Mon Feb 23 10:10:00 MST 2015<br/>Update Date: 2015-02-23 12:32:38.0<br/>Expiration Date: Tue Feb 24 12:32:44 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">27dadd77628cdedb8394457e69dd5fa8</guid>
+<geo:lat>34.0312971998798</geo:lat><geo:long>-104.74168464939238</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>285</osow:routeNumber>
+<osow:mileMarkerFrom>204</osow:mileMarkerFrom>
+<osow:mileMarkerTo>104</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:43:39 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.25648235467364&amp;lat=36.16841260798687&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 537 northbound and southbound from mile marker 0 to mile marker 4<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 537, mile marker 0-4 (from US 550 to to the  Rio Arriba County Line).  Road is snow packed and icy.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:43:39.0<br/>Update Date: 2015-02-23 04:43:39.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">c72536e2cde9341ae7b7a0d7b1d84a15</guid>
+<geo:lat>36.16841260798687</geo:lat><geo:long>-107.25648235467364</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>537</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>4</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 20:11:59 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.444562294888&amp;lat=33.331153536900715&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Black ice, Cloudy and windy may result in reduced visibility.Crews are out salt and cindering. Please drive with caution and reduce your speed , until further notice.<br/>Post Date: 2015-02-22 20:11:59.0<br/>Update Date: 2015-02-23 10:28:18.134<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">a07fedeb69051856f534ae74d13ddefb</guid>
+<geo:lat>33.331153536900715</geo:lat><geo:long>-103.444562294888</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 12:27:07 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.3748981100154&amp;lat=33.48428473234016&amp;zoom=10</link>
+<description><![CDATA[Title: US 380 eastbound and westbound from mile marker 107 Hondo to mile marker 90<br/>Description: Roads are wet. Cloudy conditions exist. <br/>Post Date: 2015-02-23 12:27:07.0<br/>Update Date: 2015-02-23 12:27:07.0<br/>Expiration Date: Tue Feb 24 12:27:13 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">c945e1d4bd98dd476b9e488d6336df4a</guid>
+<geo:lat>33.48428473234016</geo:lat><geo:long>-105.3748981100154</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>380</osow:routeNumber>
+<osow:mileMarkerFrom>107</osow:mileMarkerFrom>
+<osow:mileMarkerTo>90</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Sat, 21 Feb 2015 23:32:59 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.8021187274261&amp;lat=36.30487717115362&amp;zoom=10</link>
+<description><![CDATA[Title: US 56 eastbound and westbound from mile marker 0 Springer to mile marker 94<br/>Description: FAIR DRIVING CONDITIONS:  US 56 mile post 0 to mile post 94 (Springer to Clayton), roadway is snow packed and icy in spots.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sat Feb 21 23:32:59 MST 2015<br/>Update Date: 2015-02-23 10:23:39.0<br/>Expiration Date: Tue Feb 24 10:23:44 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">7db29d4547b24476ca2f24baa45ea17d</guid>
+<geo:lat>36.30487717115362</geo:lat><geo:long>-103.8021187274261</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>56</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>94</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 06:50:23 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.07832846752704&amp;lat=36.78086463030934&amp;zoom=10</link>
+<description><![CDATA[Title: US 64 from mile marker 89 to mile marker 170 Brazos<br/>Description: US 64 - Lumberton - Roads are snow packed and icy. Drivers advised to use caution.  This event will be updated as conditions change.<br/>Post Date: Sun Feb 22 06:50:23 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">f4b876cf0dae5162dad877a06bd25e79</guid>
+<geo:lat>36.78086463030934</geo:lat><geo:long>-107.07832846752704</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>64</osow:routeNumber>
+<osow:mileMarkerFrom>89</osow:mileMarkerFrom>
+<osow:mileMarkerTo>170</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 18:46:02 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.13926560211986&amp;lat=36.69485910277458&amp;zoom=10</link>
+<description><![CDATA[Title: US 64 from mile marker 194 to mile marker 223 Tres Piedras<br/>Description: US 64 - Tierra Amrilla - Tres Piedras - Roadway is snow packed and icy.  Drivers are advised to use caution. This event will be updated as conditions change.<br/>Post Date: 2015-02-22 18:46:02.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">5a462539613449dcc16ad27fcd501522</guid>
+<geo:lat>36.69485910277458</geo:lat><geo:long>-106.13926560211986</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>64</osow:routeNumber>
+<osow:mileMarkerFrom>194</osow:mileMarkerFrom>
+<osow:mileMarkerTo>223</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - Interstate 25 northbound and southbound from mile marker 203 Meadow Lake (NM 6/LOS LUNAS) to mile marker 214</title>
+<pubDate>Fri, 13 Feb 2015 16:15:15 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.72918924920116&amp;lat=34.88060938792698&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 203 Meadow Lake (NM 6/LOS LUNAS) to mile marker 214<br/>Description:     Ongoing through Thursday 3/12 from 9 am to 5 pm northbound and from 7 am to 3 pm southbound (MWI Inc./TMC) I-25 both directions from NM 6 (Los Lunas) north to the Rio Grande River will have various single lane closures for utility installation.<br/>Post Date: 2015-02-13 16:15:15.147<br/>Update Date: 2015-02-19 15:22:12.0<br/>Expiration Date: 2015-03-12 17:00:00.0]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">3510bdb5eedc471339f3aa8bb75c059d</guid>
+<geo:lat>34.88060938792698</geo:lat><geo:long>-106.72918924920116</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>203</osow:mileMarkerFrom>
+<osow:mileMarkerTo>214</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 209 northbound and southbound at mile marker 19</title>
+<pubDate>Fri, 20 Feb 2015 13:42:23 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.21433307072103&amp;lat=34.65102030906229&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 209 northbound and southbound at mile marker 19<br/>Description: The NMDOT replacing existing bridge Work is expected to start on February 20, 2015. Motorists can expect one lane closure in this area and are asked to observe construction signing and watch for personnel working in the area. For more information contact NMDOT Project Manager Patricio Garcia (575)626-9889, Willie McCray (575)-626-7294. Contractor AUI, Inc. Eddie Gonzales (505)-264-2231, Richard Gonzales (575)-760-4116.<br/>Post Date: 2015-02-20 13:42:23.0<br/>Update Date: 2015-02-20 13:57:43.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">74979cb8168443b184bddf3b5006e306</guid>
+<geo:lat>34.65102030906229</geo:lat><geo:long>-103.21433307072103</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>209</osow:routeNumber>
+<osow:mileMarkerFrom>19</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 08:37:07 -0700</pubDate>
+<link>http://nmroads.com?lon=-108.87191374695293&amp;lat=36.08858581658656&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 134 eastbound and westbound from mile marker 7 to mile marker 15<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 134, mile marker 7-15 (from Washtington Pass to Crystal).  Road is slushy.  Visibility is good.   Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 08:37:07.0<br/>Update Date: 2015-02-23 08:37:07.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">56844c44f44031dcc2e64c3532736e8e</guid>
+<geo:lat>36.08858581658656</geo:lat><geo:long>-108.87191374695293</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>134</osow:routeNumber>
+<osow:mileMarkerFrom>7</osow:mileMarkerFrom>
+<osow:mileMarkerTo>15</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 20:09:56 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.40484777617709&amp;lat=32.67718013479401&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Black ice,Cloudy and windy may result in reduced visibility.Crews are out salt and cindering. Please drive with caution and reduce your speed , until further notice.<br/>Post Date: 2015-02-22 20:09:56.0<br/>Update Date: 2015-02-23 10:28:20.091<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">6e97e3887f4e79b3451247d78a46fe38</guid>
+<geo:lat>32.67718013479401</geo:lat><geo:long>-103.40484777617709</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:50:05 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.30790175612577&amp;lat=33.396863796668605&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 from mile marker 300 to mile marker 260<br/>Description: Roads are wet. Cloudy conditions. Please drive with caution and reduce your speed.<br/>Post Date: Mon Feb 23 06:50:05 MST 2015<br/>Update Date: 2015-02-23 12:25:47.0<br/>Expiration Date: Tue Feb 24 12:25:53 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">49e4b68fc8454af49655dd430a46b8bd</guid>
+<geo:lat>33.396863796668605</geo:lat><geo:long>-105.30790175612577</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>300</osow:mileMarkerFrom>
+<osow:mileMarkerTo>260</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 60 eastbound at mile marker 381</title>
+<pubDate>Wed, 01 Oct 2014 15:35:59 -0600</pubDate>
+<link>http://nmroads.com?lon=-103.32772827148438&amp;lat=34.405662536621094&amp;zoom=10</link>
+<description><![CDATA[Title: US 60 eastbound at mile marker 381<br/>Description: The NMDOT is doing bridge deck rehabilitation work on the Cannon Air force Bridge  on US 84  at MP 381.570  in Clovis.  Work will consist of Concrete Deck Overlay and repairs of Structures.  Work is expected to be Complete in April 2015 . For more information contact NMDOT Project Manager Patricio Garcia (575)626-9889 or Hasse Contracting  Superintendent Travis Hasse (505)242-9226.<br/>Post Date: 2014-10-01 15:35:59.137<br/>Update Date: 2015-02-20 12:46:53.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">c2ac694635e9402ddb52b2dc52f85b90</guid>
+<geo:lat>34.405662536621094</geo:lat><geo:long>-103.32772827148438</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>60</osow:routeNumber>
+<osow:mileMarkerFrom>381</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>eastbound</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 03:31:22 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.31997968782619&amp;lat=35.82711380296354&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 4 from mile marker 47 to mile marker 67<br/>Description: Roads are snow packed and icy. <br/>Post Date: Mon Feb 23 03:31:22 MST 2015<br/>Update Date: 2015-02-23 07:46:11.396<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">6db361e8b732c34e9fb2cec4798e0b09</guid>
+<geo:lat>35.82711380296354</geo:lat><geo:long>-106.31997968782619</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>4</osow:routeNumber>
+<osow:mileMarkerFrom>47</osow:mileMarkerFrom>
+<osow:mileMarkerTo>67</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 529 eastbound and westbound from mile marker 22 to mile marker 31</title>
+<pubDate>Thu, 12 Feb 2015 15:07:00 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.46286996037837&amp;lat=32.6966825132882&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 529 eastbound and westbound from mile marker 22 to mile marker 31<br/>Description: Roadway Reconstruction for 400 Calendar Days to begin April 2015 thru May 2016.  The Contractor, Fisher Sand and Gravel will be widening shoulders and extending pipe structures.  There will be a width restriction once the project begins and you should expect delays. The Traveling Public is urged to adhere to Construction Signing and drive with caution throughout the work zones.  If possible, it is advised to seek alternate routes.  Fisher Sand and Gravel Superintendent- Felipe Tenerio 505-249-5138.  NMDOT Project Manager- Donna Gililland 575-626-4857.<br/>Post Date: 2015-02-12 15:07:00.64<br/>Update Date: 2015-02-20 14:12:01.0<br/>Expiration Date: 2016-06-01 00:59:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">a565837856784fb941cab0864a92644d</guid>
+<geo:lat>32.6966825132882</geo:lat><geo:long>-103.46286996037837</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>529</osow:routeNumber>
+<osow:mileMarkerFrom>22</osow:mileMarkerFrom>
+<osow:mileMarkerTo>31</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - </title>
+<pubDate>Thu, 05 Feb 2015 09:55:00 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.52877494390323&amp;lat=33.435891677082196&amp;zoom=10</link>
+<description><![CDATA[Title: Berrendo Creek Bridges (North and Southbound) US 285 North Main Roswell<br/>Description: Rehabilitation/Construction activities are in-progress on the Berrendo Creek Bridges of North Main St. in Roswell (US 285).  Motorist should expect two-way and/or detour traffic with 12 wide lane restrictions.Motorists are encouraged to select alternate routes during peak travel periods or allow for additional driving time to eliminate delays/congestion.November 2015 is the projected completion date.Please watch for personnel, equipment, and obey all posted construction signs & message boards.NMDOT Contact: Gabriel Ortega, PM @ 575-626-2899 or Contractor;Interstate Hwy Constr David Moreno, Superintendent  @ 505 975 6746<br/>Post Date: Thu Feb 05 09:55:00 MST 2015<br/>Update Date: 2015-02-20 21:37:32.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">cdddd081d066ae76953aa7975b6aa9b0</guid>
+<geo:lat>33.435891677082196</geo:lat><geo:long>-104.52877494390323</geo:long>
+<osow:routeName></osow:routeName>
+<osow:routeNumber>0</osow:routeNumber>
+<osow:mileMarkerFrom>-1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>-1</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 11:53:38 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.47035309210594&amp;lat=35.00072743489303&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 from mile marker 218 Clines Corners (CLINES CORNERS/US 285) to mile marker 240 Dahlia<br/>Description: DIFFICULT DRIVING CONDITIONS:  I-40 from Clines Corners to  Dahlia. roadway is icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce <br/>Post Date: 2015-02-22 11:53:38.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">71f456972744b1e9d48e5e118f8a4f7d</guid>
+<geo:lat>35.00072743489303</geo:lat><geo:long>-105.47035309210594</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>218</osow:mileMarkerFrom>
+<osow:mileMarkerTo>240</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 09:21:35 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.28044466676123&amp;lat=34.6057065227394&amp;zoom=10</link>
+<description><![CDATA[Title: US 84 northbound and southbound from mile marker 0 Fort Sumner to mile marker 18<br/>Description: Roads are snow packed and icy in spots. Visibility is poor with heavy snow. Crew is plowing and salting. Motorist should reduce speed and proceed with caution.<br/>Post Date: 2015-02-23 09:21:35.0<br/>Update Date: 2015-02-23 09:21:35.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">f17281598fb2f8024c71767808e3c0ad</guid>
+<geo:lat>34.6057065227394</geo:lat><geo:long>-104.28044466676123</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>84</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>18</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Alert - US 70 eastbound and westbound at mile marker 185</title>
+<pubDate>Wed, 21 May 2014 12:45:32 -0600</pubDate>
+<link>http://nmroads.com?lon=-106.30958617998893&amp;lat=32.60229328560304&amp;zoom=10</link>
+<description><![CDATA[Title: US 70 eastbound and westbound at mile marker 185<br/>Description: White Sands Missile Range periodically has missile firings over US 70 and/or US 380. During the firings the road or roads will be temporarily closed. Please call 575-678-1178 for daily information on possible closure dates and times for firings. This is a permanent alert and will not be updated regularly. (dm)<br/>Post Date: 2014-05-21 12:45:32.757<br/>Update Date: 2014-12-08 14:00:28.72<br/>Expiration Date: unknown<br/>]]></description>
+<category>Alert</category>
+<guid isPermaLink="false">4bad8decf84d1103b94cb7be1e6be2ba</guid>
+<geo:lat>32.60229328560304</geo:lat><geo:long>-106.30958617998893</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>70</osow:routeNumber>
+<osow:mileMarkerFrom>185</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Special Event - </title>
+<pubDate>Wed, 18 Feb 2015 09:07:46 -0700</pubDate>
+<link>http://nmroads.com?lon=-108.67414065400116&amp;lat=34.28286188206418&amp;zoom=10</link>
+<description><![CDATA[Title: US 60 at mile marker 23<br/>Description: test 1<br/>Post Date: Wed Feb 18 09:07:46 MST 2015<br/>Update Date: 2015-02-20 21:30:26.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Special Event</category>
+<guid isPermaLink="false">8d0a5fe781026e03b5a79b1fcf535cad</guid>
+<geo:lat>34.28286188206418</geo:lat><geo:long>-108.67414065400116</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>60</osow:routeNumber>
+<osow:mileMarkerFrom>23</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>84</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:05:06 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.33133863647758&amp;lat=35.08639068963263&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 469 northbound and southbound from mile marker 0 Grady to mile marker 43 Gallup<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: Sun Feb 22 09:05:06 MST 2015<br/>Update Date: 2015-02-22 20:29:55.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">72560d46540128d5f632af7535dd72b3</guid>
+<geo:lat>35.08639068963263</geo:lat><geo:long>-103.33133863647758</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>469</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>43</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:09:32 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.31250994812244&amp;lat=36.70413234777639&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 370 northbound and southbound from mile marker 0 Clayton to mile marker 47<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 09:09:32.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">2ad60e58d0999ff3638c0262ae19726d</guid>
+<geo:lat>36.70413234777639</geo:lat><geo:long>-103.31250994812244</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>370</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>47</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - Interstate 10 eastbound and westbound from mile marker 151 (MESQUITE) to mile marker 155 (VADO)</title>
+<pubDate>Mon, 07 Apr 2014 09:13:13 -0600</pubDate>
+<link>http://nmroads.com?lon=-106.6562370649778&amp;lat=32.15457770324572&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 10 eastbound and westbound from mile marker 151 (MESQUITE) to mile marker 155 (VADO)<br/>Description: The NMDOT with El Terrero Construction has the west and eastbound ramps at  Mesquite open.  The Vado west and eastbound on  and off ramps are CLOSED. Motorists may access the Mesquite or Anthony exits and utilize the frontage roads. Traffic control is posted alerting motorists to reduce speed throughout the work zone as heavy equipment and workers are present. Proceed with caution.<br/>Post Date: 2014-04-07 09:13:13.03<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">72af8c4790e9de6668399ab581b956d7</guid>
+<geo:lat>32.15457770324572</geo:lat><geo:long>-106.6562370649778</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>10</osow:routeNumber>
+<osow:mileMarkerFrom>151</osow:mileMarkerFrom>
+<osow:mileMarkerTo>155</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - Interstate 40 eastbound at mile marker 182, right lane closed.</title>
+<pubDate>Fri, 13 Feb 2015 16:11:44 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.27337509088606&amp;lat=35.096131743195315&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 eastbound at mile marker 182, right lane closed.<br/>Description:     Monday 2/16 through Thursday 2/26 from 7 am to 6 pm each weekday (MWI Inc./TMC)  I-40 eastbound at mile marker 182 (Mountain Valley Road overpass) will have the right lane closed for utility installation.<br/>Post Date: 2015-02-13 16:11:44.29<br/>Update Date: 2015-02-19 15:22:32.0<br/>Expiration Date: 2015-02-26 18:00:00.0]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">b4a3d259e4cf4eafc0eae726df2e412d</guid>
+<geo:lat>35.096131743195315</geo:lat><geo:long>-106.27337509088606</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>182</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>eastbound</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 02:56:18 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.95370959703213&amp;lat=35.004610792481195&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 from mile marker 184 to mile marker 218 Clines Corners (CLINES CORNERS/US 285)<br/>Description: Roads are snow packed and icy in spots. <br/>Post Date: Mon Feb 23 02:56:18 MST 2015<br/>Update Date: 2015-02-23 07:46:11.396<br/>Expiration Date: Tue Feb 24 02:56:00 MST 2015]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">e362d102f7f3749494ef6b83b35a153a</guid>
+<geo:lat>35.004610792481195</geo:lat><geo:long>-105.95370959703213</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>184</osow:mileMarkerFrom>
+<osow:mileMarkerTo>218</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 05:52:10 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.56691300199596&amp;lat=33.452105019614855&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 220 from mile marker 0 to mile marker 16<br/>Description: Roads are wet with some icy spots. Cloudy conditions exist. crews are salt and cindering.Please use caution and reduce your speed, until further notice. <br/>Post Date: Mon Feb 23 05:52:10 MST 2015<br/>Update Date: 2015-02-23 08:55:09.0<br/>Expiration Date: Tue Feb 24 08:55:15 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">626cc2822fa6d607a9dc6c19c25403ff</guid>
+<geo:lat>33.452105019614855</geo:lat><geo:long>-105.56691300199596</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>220</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>16</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:47:57 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.6731792912363&amp;lat=35.892914070650534&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 126 eastbound and westbound from mile marker 25 to mile marker 38<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 126 from mile marker 25-38 (from the Fish Hatchery to La Cueva).  Road is snow packed and icy.  Visibility is fair..  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:47:57.0<br/>Update Date: 2015-02-23 04:47:57.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">9477262ff277ac3101adbf01fe748db5</guid>
+<geo:lat>35.892914070650534</geo:lat><geo:long>-106.6731792912363</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>126</osow:routeNumber>
+<osow:mileMarkerFrom>25</osow:mileMarkerFrom>
+<osow:mileMarkerTo>38</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 285 from mile marker 1 to mile marker 204 Vaughn</title>
+<pubDate>Thu, 04 Dec 2014 11:03:01 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.56569570208053&amp;lat=33.337838806728115&amp;zoom=10</link>
+<description><![CDATA[Title: US 285 from mile marker 1 to mile marker 204 Vaughn<br/>Description: Road striping operations on US 285 from mile post 204 (Vaughn) to mp 0.0 (State-Line)  are under suspension until April  2015.NMDOT Contact: Gabriel Ortega, PM - 575-626-2899 or ContractorSan Bar Construction Superintendent  Frank Sanchez - 505 280-6802.<br/>Post Date: 2014-12-04 11:03:01.07<br/>Update Date: 2015-02-19 08:25:06.0<br/>Expiration Date: 2015-05-01 12:00:00.0]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">48d3855c57dba0199a5b3765f9325baa</guid>
+<geo:lat>33.337838806728115</geo:lat><geo:long>-104.56569570208053</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>285</osow:routeNumber>
+<osow:mileMarkerFrom>1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>204</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - Interstate 25 northbound and southbound from mile marker 1 (UNIV PARK/NMSU) to mile marker 3 (LOHMAN)</title>
+<pubDate>Wed, 11 Feb 2015 15:30:15 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.73992411684638&amp;lat=32.291371669110504&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 1 (UNIV PARK/NMSU) to mile marker 3 (LOHMAN)<br/>Description: The NMDOT along with FNF Construction have begun wih intermittent lane closures for I-25 between University and Lohman. Motorists will encounter lane and speed reductions. The I-25 Loop on Ramp from University eastbound will be CLOSED until November of 2015. Motorists are encourage to proceed with caution as width restrictions will also be affect northbound at 11 feet. Updates will be posted as conditions change.<br/>Post Date: 2015-02-11 15:30:15.64<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">2d260e70f9c98f66f6da27fd392784a4</guid>
+<geo:lat>32.291371669110504</geo:lat><geo:long>-106.73992411684638</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>3</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - New Mexico 6 westbound at mile marker 33</title>
+<pubDate>Fri, 13 Feb 2015 16:13:30 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.75881568727141&amp;lat=34.81372433178572&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 6 westbound at mile marker 33<br/>Description:     Monday 2/16 through Monday 3/16 from 9 pm to 5 am each weekday (MWI Inc./TMC)  NM 6 westbound from Camelot to I-25 (Los Lunas) will have the right lane closed for installation.<br/>Post Date: 2015-02-13 16:13:30.887<br/>Update Date: 2015-02-19 15:21:59.0<br/>Expiration Date: 2015-03-17 05:00:00.0]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">317b5c5148dc33d8964dfd05fe72100e</guid>
+<geo:lat>34.81372433178572</geo:lat><geo:long>-106.75881568727141</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>6</osow:routeNumber>
+<osow:mileMarkerFrom>33</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>westbound</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Seasonal Closure - New Mexico 72 eastbound and westbound from mile marker 0 to mile marker 36</title>
+<pubDate>Wed, 21 Jan 2015 08:27:55 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.15695326465331&amp;lat=36.902002586184445&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 72 eastbound and westbound from mile marker 0 to mile marker 36<br/>Description: SEASONAL CLOSURE:  NM 72 from mile post 0 to mile post 36 (Raton to Folsom), winter seasonal road closure.  Gates will be locked during the winter months. Please find an alternative route.      <br/>Post Date: 2015-01-21 08:27:55.79<br/>Update Date: 2015-02-19 08:44:49.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Seasonal Closure</category>
+<guid isPermaLink="false">e7ad6cd2e41e5bef1b480144eae79c11</guid>
+<geo:lat>36.902002586184445</geo:lat><geo:long>-104.15695326465331</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>72</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>36</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Alert - New Mexico 136 from mile marker 1 to mile marker 3</title>
+<pubDate>Tue, 15 Jul 2014 07:33:48 -0600</pubDate>
+<link>http://nmroads.com?lon=-106.68474959209576&amp;lat=31.80993371077392&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 136 from mile marker 1 to mile marker 3<br/>Description: NM 136 Pete Domenici Hwy near Sunland Park is experiencing high volumes of traffic during the morning hours at the Santa Teresa Port of Entry. Please expect delays should you be crossing the border with intentions of export vehicles from the US. All proper documentation must be presented when entering the port.<br/>Post Date: 2014-07-15 07:33:48.393<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Alert</category>
+<guid isPermaLink="false">466741cd275d8c0f4e1145e23d07ac12</guid>
+<geo:lat>31.80993371077392</geo:lat><geo:long>-106.68474959209576</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>136</osow:routeNumber>
+<osow:mileMarkerFrom>1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>3</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Severe Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 14:27:07 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.43656287998836&amp;lat=34.198739831078434&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 20 from mile marker 0 to mile marker 45<br/>Description: Roads are snow packed and icy. Blowing snow from the North, is resulting in low visibility.Crews are out plowing,salt and cindering.Please avoid driving this area,until further notice.<br/>Post Date: Sun Feb 22 14:27:07 MST 2015<br/>Update Date: 2015-02-23 09:27:12.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Severe Driving Conditions</category>
+<guid isPermaLink="false">b8cdbf3ac982ba633b19aec5908a16f5</guid>
+<geo:lat>34.198739831078434</geo:lat><geo:long>-104.43656287998836</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>20</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>45</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Alert - New Mexico 68 from mile marker 14 to mile marker 29</title>
+<pubDate>Mon, 26 Jan 2015 15:38:06 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.87863738873827&amp;lat=36.21673933995226&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 68 from mile marker 14 to mile marker 29<br/>Description: NM 68 - Velarde to Taos Canyon - Motorists are alerted for possible falling rocks and debris onto roadway. Advise to use caution. NMDOT crews are out monitoring roadway.<br/>Post Date: 2015-01-26 15:38:06.15<br/>Update Date: 2015-02-23 07:46:11.396<br/>Expiration Date: unknown<br/>]]></description>
+<category>Alert</category>
+<guid isPermaLink="false">458af642dec87eb25ae2440c173701c0</guid>
+<geo:lat>36.21673933995226</geo:lat><geo:long>-105.87863738873827</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>68</osow:routeNumber>
+<osow:mileMarkerFrom>14</osow:mileMarkerFrom>
+<osow:mileMarkerTo>29</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:57:41 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.52903986420661&amp;lat=34.82228658761005&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 209 from mile marker 36 to mile marker 84 Tucumcari<br/>Description: DIFFICULT DRIVING CONDITIONS:  NM 209 from mile post 36 to mile post 84 (Grady to Tucumcari), roadway is snow packed and icy with intermittent snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.         <br/>Post Date: Sun Feb 22 08:57:41 MST 2015<br/>Update Date: 2015-02-22 20:31:13.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">b6242a1e33d986ee6136c7ee1ccaa719</guid>
+<geo:lat>34.82228658761005</geo:lat><geo:long>-103.52903986420661</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>209</osow:routeNumber>
+<osow:mileMarkerFrom>36</osow:mileMarkerFrom>
+<osow:mileMarkerTo>84</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sat, 21 Feb 2015 23:12:41 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.83225279633733&amp;lat=36.537862081464766&amp;zoom=10</link>
+<description><![CDATA[Title: US 64 eastbound and westbound from mile marker 273 to mile marker 344<br/>Description: DIFFICULT DRIVING CONDITIONS:  US 64 mile post 273 to mile post 344 (Agua Fria to Raton), roadway is snow packed and icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sat Feb 21 23:12:41 MST 2015<br/>Update Date: 2015-02-22 14:40:46.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">30d270a968971f671f273332a87bdf77</guid>
+<geo:lat>36.537862081464766</geo:lat><geo:long>-104.83225279633733</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>64</osow:routeNumber>
+<osow:mileMarkerFrom>273</osow:mileMarkerFrom>
+<osow:mileMarkerTo>344</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Severe Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 08:38:49 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.35248955254761&amp;lat=32.18529973545691&amp;zoom=10</link>
+<description><![CDATA[Title: US 62 northbound and southbound from mile marker 0 to mile marker 36 Carlsbad<br/>Description: Roads is extremely slick with black ice. Three trucks are salting at this time.  Motorists are advised to use an alternate route or delay their travel on this route.  Several accidents have been reported.   <br/>Post Date: 2015-02-23 08:38:49.0<br/>Update Date: 2015-02-23 08:38:49.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Severe Driving Conditions</category>
+<guid isPermaLink="false">eb1994e1a14a7e227e3dfe449d8ca1b2</guid>
+<geo:lat>32.18529973545691</geo:lat><geo:long>-104.35248955254761</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>62</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>36</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 00:15:45 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.23518313387629&amp;lat=36.2025764482606&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 434 northbound and southbound from mile marker 0 Mora to mile marker 36<br/>Description: DIFFICULT DRIVING CONDITIONS:  NM 434 from mile post 0 to mile post 36 (Mora to Angel Fire), roadway is snow packed and icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sun Feb 22 00:15:45 MST 2015<br/>Update Date: 2015-02-22 23:09:14.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">608e79099d71ba60ab47d96db9fca5d4</guid>
+<geo:lat>36.2025764482606</geo:lat><geo:long>-105.23518313387629</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>434</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>36</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 09:25:44 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.90394309570277&amp;lat=36.465149944314675&amp;zoom=10</link>
+<description><![CDATA[Title: US 550 from mile marker 105 to mile marker 159<br/>Description: US 550- Roadway is snow packed and icy.  Drivers are advised to use caution. This event will be updated as conditions change.<br/>Post Date: Mon Feb 23 09:25:44 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">761a38d211e91a77704634cd22f3626f</guid>
+<geo:lat>36.465149944314675</geo:lat><geo:long>-107.90394309570277</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>550</osow:routeNumber>
+<osow:mileMarkerFrom>105</osow:mileMarkerFrom>
+<osow:mileMarkerTo>159</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:12:16 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.49102332679354&amp;lat=34.08620400824567&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are snow packed and icy.  Cloudy and windy conditions are causing limited visibility.NMDOT crews are out salt & cindering . Please drive with caution and reduce your speed, until further notice.<br/>Post Date: Sun Feb 22 09:12:16 MST 2015<br/>Update Date: 2015-02-23 12:39:23.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">a31286520d0f760414b970c1c5c6a2e0</guid>
+<geo:lat>34.08620400824567</geo:lat><geo:long>-105.49102332679354</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 09:39:52 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.59286533055416&amp;lat=36.212481319323295&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 from mile marker 43 to mile marker 72 Ranchos de Taos<br/>Description: NM 518 - Penasco - Taos - Roads are snow packed and icy. Drivers advised to use caution.  This event will be updated as conditions change. <br/>Post Date: Mon Feb 23 09:39:52 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">e6e81317821636ee5bb44938e4724365</guid>
+<geo:lat>36.212481319323295</geo:lat><geo:long>-105.59286533055416</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>43</osow:mileMarkerFrom>
+<osow:mileMarkerTo>72</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Construction Closure - New Mexico 549 from mile marker 23 to mile marker 25</title>
+<pubDate>Mon, 25 Aug 2014 11:35:04 -0600</pubDate>
+<link>http://nmroads.com?lon=-107.31669642816816&amp;lat=32.22609243615851&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 549 from mile marker 23 to mile marker 25<br/>Description: A portion of NM 549 east of Deming is CLOSED due to roadway construction. The contracotr is currently reconstruction the bridge along this route. The NMDOT has posted detours and traffic control alerting motorists of this workzone. Please proceed with caution.<br/>Post Date: 2014-08-25 11:35:04.407<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: 2015-06-01 00:00:00.0]]></description>
+<category>Construction Closure</category>
+<guid isPermaLink="false">3745fab1d9be38ad500807eaba012d78</guid>
+<geo:lat>32.22609243615851</geo:lat><geo:long>-107.31669642816816</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>549</osow:routeNumber>
+<osow:mileMarkerFrom>23</osow:mileMarkerFrom>
+<osow:mileMarkerTo>25</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 03:53:20 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.80465655080917&amp;lat=34.840481191036744&amp;zoom=10</link>
+<description><![CDATA[Title: US 54 northbound and southbound from mile marker 225 to mile marker 242 Newkirk<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: 2015-02-23 03:53:20.0<br/>Update Date: 2015-02-23 03:53:20.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">d8374653c4b0df4b611928d5d988d06f</guid>
+<geo:lat>34.840481191036744</geo:lat><geo:long>-104.80465655080917</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>54</osow:routeNumber>
+<osow:mileMarkerFrom>225</osow:mileMarkerFrom>
+<osow:mileMarkerTo>242</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 06:25:30 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.2909956278895&amp;lat=33.313267965444375&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 89 (CUCHILLO) to mile marker 92 (MITCHELL POINT)<br/>Description: North and Southbound lanes have snow accumulations with icy and slick roadways. Please expect delays and proceed with caution. Updates will be posted as conditions change.<br/>Post Date: Mon Feb 23 06:25:30 MST 2015<br/>Update Date: 2015-02-23 09:14:23.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">b159543829e709133504fb9d9bd375ab</guid>
+<geo:lat>33.313267965444375</geo:lat><geo:long>-107.2909956278895</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>89</osow:mileMarkerFrom>
+<osow:mileMarkerTo>92</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Alert - US 82 at Cloudcroft</title>
+<pubDate>Mon, 26 Aug 2013 16:29:31 -0600</pubDate>
+<link>http://nmroads.com?lon=-105.74248872427711&amp;lat=32.95731226271885&amp;zoom=10</link>
+<description><![CDATA[Title: US 82 at Cloudcroft<br/>Description: US 82 between Cloudcroft and Alamogordo descends 5,000 feet in 16 miles!  Steep grades, numerous tight turns and one tunnel!  Trucks without retarder brakes and/or longer than 65 feet in length PROHIBITED on this section of US 82. Consider using an alternative route – US 62/180 or US70This is a permanent alert. (dm)<br/>Post Date: 2013-08-26 16:29:31.06<br/>Update Date: 2013-08-26 16:29:31.06<br/>Expiration Date: unknown<br/>]]></description>
+<category>Alert</category>
+<guid isPermaLink="false">cebb14b3f515d316c94768c07ab1c3df</guid>
+<geo:lat>32.95731226271885</geo:lat><geo:long>-105.74248872427711</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>82</osow:routeNumber>
+<osow:mileMarkerFrom>16</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 518 northbound and southbound from mile marker 29 Mora to mile marker 30</title>
+<pubDate>Fri, 13 Feb 2015 11:38:47 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.33353967433453&amp;lat=35.97530928957007&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 northbound and southbound from mile marker 29 Mora to mile marker 30<br/>Description: Utility work ongoing.  Speed reduced in the work zone area.  Please use caution when traveling in this area.  Event will be updated weekly during construction. <br/>Post Date: 2015-02-13 11:38:47.473<br/>Update Date: 2015-02-13 11:38:47.473<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">2e6045f7aa5ae2cb7966478f3eb95262</guid>
+<geo:lat>35.97530928957007</geo:lat><geo:long>-105.33353967433453</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>29</osow:mileMarkerFrom>
+<osow:mileMarkerTo>30</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - US 54 northbound and southbound from mile marker 130 to mile marker 146</title>
+<pubDate>Tue, 30 Dec 2014 11:34:06 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.83246398313453&amp;lat=33.840650139588604&amp;zoom=10</link>
+<description><![CDATA[Title: US 54 northbound and southbound from mile marker 130 to mile marker 146<br/>Description: Roadway construction is underway on US 54.The contractor will be working  Monday thru Friday from 6:30am to 5:00pm. An 11' WIDTH RESTRICTION is in effect for both north and south bound lanes from mm 130 to mm 146. Motorists can expect one-lane closures in this area and are asked to observe construction signing and watch for personnel working in the area. Expected completion is Summer 2015. Emergency Contacts: NMDOT Project Manager Mark Manning 575-648-4270 and FNF Project Manager Richard Montoya 480-318-5755<br/>Post Date: 2014-12-30 11:34:06.65<br/>Update Date: 2015-02-23 10:59:38.555<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">c102d852548ed8f8bb1778026c13ca50</guid>
+<geo:lat>33.840650139588604</geo:lat><geo:long>-105.83246398313453</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>54</osow:routeNumber>
+<osow:mileMarkerFrom>130</osow:mileMarkerFrom>
+<osow:mileMarkerTo>146</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:41:23 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.1308709284952&amp;lat=35.9078713104799&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 197 eastbound and westbound from mile marker 0 to mile marker 30<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 197, mile marker 0-30 (from Cuba to  Torreon).  Road is snow packed and icy.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:41:23.0<br/>Update Date: 2015-02-23 04:41:23.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">816f94a3ae3600d81698ca74e999a04a</guid>
+<geo:lat>35.9078713104799</geo:lat><geo:long>-107.1308709284952</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>197</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>30</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 01:54:14 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.2808894155323&amp;lat=36.62767663431207&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 38 from mile marker 17 to mile marker 29 Eagle Nest<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 01:54:14.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">3b3efa1c818322e98ad3ce741bb57b1d</guid>
+<geo:lat>36.62767663431207</geo:lat><geo:long>-105.2808894155323</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>38</osow:routeNumber>
+<osow:mileMarkerFrom>17</osow:mileMarkerFrom>
+<osow:mileMarkerTo>29</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 05:51:19 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.6613439046626&amp;lat=33.44545851534268&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 48 from mile marker 0 to mile marker 22 Capitan<br/>Description: Roads are wet with some icy spots. Cloudy conditions exist. crews are salt and cindering.Please use caution and reduce your speed, until further notice. <br/>Post Date: Mon Feb 23 05:51:19 MST 2015<br/>Update Date: 2015-02-23 08:57:24.0<br/>Expiration Date: Tue Feb 24 08:57:30 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">c708cfc2a66315b20b2da28e97f49ad2</guid>
+<geo:lat>33.44545851534268</geo:lat><geo:long>-105.6613439046626</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>48</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>22</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:12:14 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.8346736733226&amp;lat=35.79688912947661&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 39 northbound and southbound from mile marker 0 Logan to mile marker 93 Abbott<br/>Description: DIFFICULT DRIVING CONDITIONS:  NM 39 from mile post 0 to mile post 93 (Logan to Abbott), roadway is snow packed and icy with light snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.      <br/>Post Date: 2015-02-22 09:12:14.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">20687968e6d310608e8aacaf13d499ba</guid>
+<geo:lat>35.79688912947661</geo:lat><geo:long>-103.8346736733226</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>39</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>93</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:15:03 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.63900280354655&amp;lat=32.877962826170695&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 130 from mile marker 0 Cloudcroft to mile marker 21<br/>Description: Roads are wet. Cloudy conditions exist.  Motorists should reduce speed and proceed with caution.<br/>Post Date: 2015-02-23 10:15:03.0<br/>Update Date: 2015-02-23 10:15:03.0<br/>Expiration Date: Tue Feb 24 10:15:09 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">2279daeb81a833ea26e3bbbdd8f2a713</guid>
+<geo:lat>32.877962826170695</geo:lat><geo:long>-105.63900280354655</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>130</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>21</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 07:47:21 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.16066330677673&amp;lat=35.070945216405406&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 eastbound and westbound from mile marker 240 Dahlia to mile marker 373 Glenrio<br/>Description: DIFFICULT DRIVING CONDITION:  I-40 from mile post 240 to mile post 373 (Clines Corners to Glenrio), roadway is icy in spots with intermittent snowfall.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.  <br/>Post Date: Sun Feb 22 07:47:21 MST 2015<br/>Update Date: 2015-02-22 11:35:16.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">48477795c92ee953704878c448315961</guid>
+<geo:lat>35.070945216405406</geo:lat><geo:long>-104.16066330677673</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>240</osow:mileMarkerFrom>
+<osow:mileMarkerTo>373</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 05:30:07 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.1086150846257&amp;lat=35.03003845684244&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 eastbound and westbound from mile marker 167 (TRAMWAY) to mile marker 217<br/>Description: Roads are wet, snow packed and icy in spots.  Use caution in this area.<br/>Post Date: 2015-02-23 05:30:07.0<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">2eecbc9c61a32f4654247ab39025ebfe</guid>
+<geo:lat>35.03003845684244</geo:lat><geo:long>-106.1086150846257</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>167</osow:mileMarkerFrom>
+<osow:mileMarkerTo>217</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - Interstate 25 northbound and southbound from mile marker 293 to mile marker 294 (CANONCITO)</title>
+<pubDate>Tue, 08 Apr 2014 16:36:30 -0600</pubDate>
+<link>http://nmroads.com?lon=-105.8361650421051&amp;lat=35.54393767084924&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 25 northbound and southbound from mile marker 293 to mile marker 294 (CANONCITO)<br/>Description: Santa Fe  The New Mexico Department of Transportation (NMDOT) began bridge replacement work on I-25 north of Santa Fe at Canoncito between mile markers 293 and 294.  The scope of the project includes bridge rehabilitation, roadway and ramp reconstruction, and pavement rehabilitation for 1.42 miles within Santa Fe County.  Tom Griego is the NMDOT Project Engineer.  AUI is the contractor for this project.Traffic Impacts:Tthe cross road under I-25 (Sleeping Dog Road) and the I- 25 southbound ramp is CLOSED. This closure remains in effect until June 2015.  Local traffic and residents on the south side of I-25 will be detoured to the Valencia Exit 297 to access I-25 South.  Local traffic and residents on the north side of I-25 (Old Las Vegas Highway) will be detoured to the Lamy Exit 290 to access I-25 northbound and southbound.  -All lanes are OPENED on the I-25 northbound and southbound lanes anes.  Project anticipated to be completed July 2015; weather permitting. NMDOT urges motorists to proceed through the work zone with caution, watch for construction personnel.  <br/>Post Date: 2014-04-08 16:36:30.167<br/>Update Date: 2015-02-11 12:25:20.037<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">c00b3c9655439e371218b377036359c0</guid>
+<geo:lat>35.54393767084924</geo:lat><geo:long>-105.8361650421051</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>25</osow:routeNumber>
+<osow:mileMarkerFrom>293</osow:mileMarkerFrom>
+<osow:mileMarkerTo>294</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Lane Closure - New Mexico 423 at mile marker 0</title>
+<pubDate>Tue, 27 Jan 2015 15:59:05 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.66821160771512&amp;lat=35.1808835766306&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 423 at mile marker 0<br/>Description:      Ongoing through Thursday 2/26 from 9 pm to 5 am each evening (Bixby Electric 350-1098)  The N_M 45 (Coors) and N_M 4_23 (Paseo Del Norte) intersection will have the following various lane closures at different times for traffic signal repairs:-    The Paseo Del Norte westbound to Coors southbound turn lanes will be closed.-    The Coors southbound to Paseo Del Norte eastbound turn lanes will be closed.-    Coors northbound at Paseo Del Norte will have the 2 right lanes closed-    Coors southbound at Paseo Del Norte will have the 2 right lanes closed-    Expect delays!!!!!!!!!    Ongoing through Thursday 2/26 from 9 am to 3 pm each weekday (Bixby Electric)  The N_M 45 (Coors) and N_M 4_23 (Paseo Del Norte) intersection will have the following various lane closures at different times for traffic signal repairs:-    The Paseo Del Norte westbound to Coors southbound turn lanes will be reduced to one lane-    The Coors southbound to Paseo Del Norte eastbound turn lanes will be reduced to one lane-    Expect delays!!!!!!!!!<br/>Post Date: 2015-01-27 15:59:05.217<br/>Update Date: 2015-02-19 15:23:32.0<br/>Expiration Date: 2015-02-27 05:00:00.0]]></description>
+<category>Lane Closure</category>
+<guid isPermaLink="false">3ffc3b12a686bd6eb0abdcc74c890f39</guid>
+<geo:lat>35.1808835766306</geo:lat><geo:long>-106.66821160771512</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>423</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:39:11 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.5642136472726&amp;lat=35.81324131218134&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 4 northbound and southbound from mile marker 12 to mile marker 46<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 4, mile marker 12-46 (from Jemez Springs to the Los Alamos County Line).  Road is snow packed and icy.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:39:11.0<br/>Update Date: 2015-02-23 04:39:11.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">3def5cc55456b5b23dd2b62804089724</guid>
+<geo:lat>35.81324131218134</geo:lat><geo:long>-106.5642136472726</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>4</osow:routeNumber>
+<osow:mileMarkerFrom>12</osow:mileMarkerFrom>
+<osow:mileMarkerTo>46</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:22:34 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.280574839772&amp;lat=34.416562225506624&amp;zoom=10</link>
+<description><![CDATA[Title: Conditions exist throughout area.<br/>Description: Roads are icy. Cloudy and windy conditions may result in reduced visibility.Crews are out salt & cindering.Please drive with caution and reduce your speed,until further notice.<br/>Post Date: 2015-02-22 08:22:34.0<br/>Update Date: 2015-02-22 08:22:34.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">26e46c09a23f17b8aa26ba6c1c5602b1</guid>
+<geo:lat>34.416562225506624</geo:lat><geo:long>-103.280574839772</geo:long>
+<osow:routeName>NA</osow:routeName>
+<osow:routeNumber>NA</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>0</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 18:47:20 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.67390235233458&amp;lat=36.466345576242595&amp;zoom=10</link>
+<description><![CDATA[Title: US 64 from mile marker 224 to mile marker 272<br/>Description: US 64 - Tres Piedras - Taos -Roadway is snow packed and icy.  Drivers are advised to use caution. This event will be updated as conditions change.<br/>Post Date: Sun Feb 22 18:47:20 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: Tue Feb 24 01:47:00 MST 2015]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">0076372c3ae5d9f8d3aa22ead3a58e62</guid>
+<geo:lat>36.466345576242595</geo:lat><geo:long>-105.67390235233458</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>64</osow:routeNumber>
+<osow:mileMarkerFrom>224</osow:mileMarkerFrom>
+<osow:mileMarkerTo>272</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 03:52:28 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.53157768758967&amp;lat=34.809439182341514&amp;zoom=10</link>
+<description><![CDATA[Title: US 84 northbound and southbound from mile marker 19 to mile marker 41 Santa Rosa<br/>Description: Roads are snow packed and icy. Intermittent snow is causing limited visibility.<br/>Post Date: 2015-02-23 03:52:28.0<br/>Update Date: 2015-02-23 03:52:28.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">9c262ce959126f396dce7dde9d905d7b</guid>
+<geo:lat>34.809439182341514</geo:lat><geo:long>-104.53157768758967</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>84</osow:routeNumber>
+<osow:mileMarkerFrom>19</osow:mileMarkerFrom>
+<osow:mileMarkerTo>41</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:16:05 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.2398094575895&amp;lat=35.80972272622542&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 518 northbound and southbound from mile marker 0 to mile marker 35 Holman<br/>Description: FAIR DRIVING CONDITIONS:  NM 518 mile post 0 to mile post 35 (Las Vegas to Mora), roadway is snow packed and icy spots.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce your speed.  <br/>Post Date: Mon Feb 23 10:16:05 MST 2015<br/>Update Date: 2015-02-23 10:16:35.0<br/>Expiration Date: Tue Feb 24 10:16:40 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">36528d9da619130ddcc8198bd8d8999e</guid>
+<geo:lat>35.80972272622542</geo:lat><geo:long>-105.2398094575895</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>518</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>35</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Closure - New Mexico 174 from mile marker 2 to mile marker 4</title>
+<pubDate>Tue, 03 Feb 2015 12:14:55 -0700</pubDate>
+<link>http://nmroads.com?lon=-108.85247420420457&amp;lat=33.34752149987078&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 174 from mile marker 2 to mile marker 4<br/>Description: Roadway is impassible on NM 174 within the Glenwood area due to large debris that has covered various areas along the route from past rain and snow fall. The NMDOT is currently working on removing the run off, and will make any necessary roadway repairs once the area is clear. Updates will be posted as conditions change. <br/>Post Date: 2015-02-03 12:14:55.12<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: 2015-05-31 12:00:00.0]]></description>
+<category>Closure</category>
+<guid isPermaLink="false">bc4cbc795adc54c30cc56cb4892f0d16</guid>
+<geo:lat>33.34752149987078</geo:lat><geo:long>-108.85247420420457</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>174</osow:routeNumber>
+<osow:mileMarkerFrom>2</osow:mileMarkerFrom>
+<osow:mileMarkerTo>4</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 04:40:26 -0700</pubDate>
+<link>http://nmroads.com?lon=-107.16750422578158&amp;lat=36.10047936305232&amp;zoom=10</link>
+<description><![CDATA[Title: US 550 northbound and southbound from mile marker 51 to mile marker 104 Lybrook<br/>Description: DIFFICULT DRIVING CONDITIONS on US 550, mile marker 51-104 (from south of Cuba to Lybrook).  Road is snow packed and icy.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 04:40:26.0<br/>Update Date: 2015-02-23 04:40:26.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">19990f8b0a9bd0303b88c0509927c825</guid>
+<geo:lat>36.10047936305232</geo:lat><geo:long>-107.16750422578158</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>550</osow:routeNumber>
+<osow:mileMarkerFrom>51</osow:mileMarkerFrom>
+<osow:mileMarkerTo>104</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 10:47:30 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.03190777710388&amp;lat=33.05912725559359&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 249 eastbound and westbound from mile marker 0 to mile marker 43<br/>Description: Roads are wet with some icy spots. Blowing snow is causing limited visibility.Crew is salting. Motorist should reduce speed and proceed with caution.<br/>Post Date: 2015-02-23 10:47:30.0<br/>Update Date: 2015-02-23 10:47:30.0<br/>Expiration Date: Tue Feb 24 10:47:36 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">0148839e4a344140cddd4f0f410da2ba</guid>
+<geo:lat>33.05912725559359</geo:lat><geo:long>-104.03190777710388</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>249</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>43</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:13:04 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.29399126124574&amp;lat=35.68040328474308&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 419 northbound and southbound from mile marker 0 to mile marker 47<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 09:13:04.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">7ceeccbbdc26400c88f15af26624e055</guid>
+<geo:lat>35.68040328474308</geo:lat><geo:long>-104.29399126124574</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>419</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>47</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 247 eastbound and westbound from mile marker 0 Corona to mile marker 7</title>
+<pubDate>Sun, 23 Nov 2014 11:15:57 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.55330352544155&amp;lat=34.20941221009685&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 247 eastbound and westbound from mile marker 0 Corona to mile marker 7<br/>Description: Fence replacement. The Contractor will be working Monday through Friday from 7:00 am to 5:00 pm.  Motorists should watch for equipment and personnel in the workzone and adhere to all construction signage.  Estimated completion is Spring of 2015. Contacts: Mark Manning, NMDOT Project Manager: 575-648-4270<br/>Post Date: 2014-11-23 11:15:57.913<br/>Update Date: 2015-02-23 10:59:38.555<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">8a6b8b3c76502628f47baf80be3dc40b</guid>
+<geo:lat>34.20941221009685</geo:lat><geo:long>-105.55330352544155</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>247</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>7</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 02:39:32 -0700</pubDate>
+<link>http://nmroads.com?lon=-108.66688226650548&amp;lat=35.5287986371446&amp;zoom=10</link>
+<description><![CDATA[Title: Interstate 40 eastbound and westbound from mile marker 16 GALLUP WEST Interchange to mile marker 36 IYANBITO Interchange<br/>Description: DIFFICULT DRIVING CONDITIONS on I-40, mile marker 16-36 (from West Gallup Interchange to Iyanbito).  Road is icy from West Gallup to East Gallup and snow packed and icy from East Gallup to Iyanbito.  Visibility is fair.  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: 2015-02-23 02:39:32.0<br/>Update Date: 2015-02-23 02:39:32.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">8b70c4d29d2cc6eb497bb58b3da4cb1f</guid>
+<geo:lat>35.5287986371446</geo:lat><geo:long>-108.66688226650548</geo:long>
+<osow:routeName>I</osow:routeName>
+<osow:routeNumber>40</osow:routeNumber>
+<osow:mileMarkerFrom>16</osow:mileMarkerFrom>
+<osow:mileMarkerTo>36</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 09:20:37 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.12229626099199&amp;lat=34.44395307028815&amp;zoom=10</link>
+<description><![CDATA[Title: US 60 eastbound and westbound from mile marker 306 Yeso to mile marker 363<br/>Description: Roads are snow packed and icy. Visibility is poor with heavy snow. Crew is plowing and salting. Motorist should reduce speed and proceed with caution.<br/>Post Date: 2015-02-23 09:20:37.0<br/>Update Date: 2015-02-23 09:20:37.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">ac0a5301826b9a3d7ef63385c77f2fd1</guid>
+<geo:lat>34.44395307028815</geo:lat><geo:long>-104.12229626099199</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>60</osow:routeNumber>
+<osow:mileMarkerFrom>306</osow:mileMarkerFrom>
+<osow:mileMarkerTo>363</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Roadwork - New Mexico 460 from mile marker 1 to mile marker 3</title>
+<pubDate>Fri, 10 Oct 2014 15:58:06 -0600</pubDate>
+<link>http://nmroads.com?lon=-106.60327239582612&amp;lat=32.023901656005954&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 460 from mile marker 1 to mile marker 3<br/>Description: In Anthony, NM the NMDOT and Smith and Aguirre are working on installing a storm culvert drain pipe under NM 460 from Miller Street to Landers Drive. The contractor will construct a pond beside the Community Development Center, along with mill and inlay from New Mexico/Texas state line to O'Harra Road/NM 460. The project will also have new ADA compliant features such as sidewalks with landing and turnouts along NM 460. <br/>Post Date: 2014-10-10 15:58:06.583<br/>Update Date: 2015-02-23 08:10:46.9<br/>Expiration Date: unknown<br/>]]></description>
+<category>Roadwork</category>
+<guid isPermaLink="false">7ed7785aa432f3cd657844098681e436</guid>
+<geo:lat>32.023901656005954</geo:lat><geo:long>-106.60327239582612</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>460</osow:routeNumber>
+<osow:mileMarkerFrom>1</osow:mileMarkerFrom>
+<osow:mileMarkerTo>3</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 08:09:59 -0700</pubDate>
+<link>http://nmroads.com?lon=-103.37067586276918&amp;lat=35.40390065139796&amp;zoom=10</link>
+<description><![CDATA[Title: US 54 northbound and southbound from mile marker 304 Montoya to mile marker 355<br/>Description: DIFFICULT DRIVING CONDITIONS:  US 54 mile post 304 to mile post 355 (Tucumcari to Nara Visa), roadway is snow packed and icy with light snow.  Crews are out plowing, salting and cindering.  Please drive with caution and reduce speed.        <br/>Post Date: Sun Feb 22 08:09:59 MST 2015<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">bf2b29edf74f0463963808b5bf43e188</guid>
+<geo:lat>35.40390065139796</geo:lat><geo:long>-103.37067586276918</geo:long>
+<osow:routeName>US</osow:routeName>
+<osow:routeNumber>54</osow:routeNumber>
+<osow:mileMarkerFrom>304</osow:mileMarkerFrom>
+<osow:mileMarkerTo>355</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Fair Driving Conditions - </title>
+<pubDate>Mon, 23 Feb 2015 03:29:40 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.75123831514443&amp;lat=35.570126347009605&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 50 from mile marker 0 to mile marker 3<br/>Description: Roads are wet with some icy spots. Intermittent snow a windy conditions are causing limited visibility.<br/>Post Date: Mon Feb 23 03:29:40 MST 2015<br/>Update Date: 2015-02-23 10:51:03.035<br/>Expiration Date: Tue Feb 24 10:48:27 MST 2015]]></description>
+<category>Fair Driving Conditions</category>
+<guid isPermaLink="false">b0a9b21bef04f072bb1425614123204d</guid>
+<geo:lat>35.570126347009605</geo:lat><geo:long>-105.75123831514443</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>50</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>3</osow:mileMarkerTo>
+<osow:direction>NA</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 07:56:47 -0700</pubDate>
+<link>http://nmroads.com?lon=-105.32258022786829&amp;lat=35.845851836945755&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 94 northbound and southbound from mile marker 0 Sapello to mile marker 18 Mora<br/>Description: Roads are snow packed and icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 07:56:47.0<br/>Update Date: 2015-02-22 18:48:08.789<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">386b5c3f2175611bac0a6c09c017e1cf</guid>
+<geo:lat>35.845851836945755</geo:lat><geo:long>-105.32258022786829</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>94</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>18</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Fri, 30 Jan 2015 04:16:31 -0700</pubDate>
+<link>http://nmroads.com?lon=-106.82853393647193&amp;lat=35.995916476102&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 126 eastbound and westbound from mile marker 0 Cuba to mile marker 25<br/>Description: DIFFICULT DRIVING CONDITIONS on NM 126 from mile marker 0 -25 (from Cuba to the Fish Hatchery).  Road is snow packed and icy.  Visibility is fair..  Please drive with caution, reduce speed and obey all posted traffic signs.  This event will be updated as conditions change.<br/>Post Date: Fri Jan 30 04:16:31 MST 2015<br/>Update Date: 2015-02-23 04:45:42.0<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">08691f0b90af4110140271100d06b7c4</guid>
+<geo:lat>35.995916476102</geo:lat><geo:long>-106.82853393647193</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>126</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>25</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+<item>
+<title>Difficult Driving Conditions - </title>
+<pubDate>Sun, 22 Feb 2015 09:03:32 -0700</pubDate>
+<link>http://nmroads.com?lon=-104.24480849944021&amp;lat=35.17858908650245&amp;zoom=10</link>
+<description><![CDATA[Title: New Mexico 129 northbound and southbound from mile marker 0 Newkirk to mile marker 17 Mesa Rica<br/>Description: Roads are icy. Visibility is limited due to light snow.<br/>Post Date: 2015-02-22 09:03:32.0<br/>Update Date: 2015-02-22 11:32:05.381<br/>Expiration Date: unknown<br/>]]></description>
+<category>Difficult Driving Conditions</category>
+<guid isPermaLink="false">1633f5d1c0958492665ba4309391f469</guid>
+<geo:lat>35.17858908650245</geo:lat><geo:long>-104.24480849944021</geo:long>
+<osow:routeName>NM</osow:routeName>
+<osow:routeNumber>129</osow:routeNumber>
+<osow:mileMarkerFrom>0</osow:mileMarkerFrom>
+<osow:mileMarkerTo>17</osow:mileMarkerTo>
+<osow:direction>both</osow:direction>
+<osow:height>0</osow:height>
+<osow:width>0</osow:width>
+<osow:length>0</osow:length>
+<osow:weight>0</osow:weight>
+</item>
+</channel>
+</rss>
