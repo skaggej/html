@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function () {
+				// If weather placeholder exists execute weather request
+				if ($('#inner1') !== null && $('#inner1').length !== 0) {
+					onWeatherSuccess();
+				}			
+				function onWeatherSuccess() {	
+					var data = "{\"d\":{\"results\":[{\"__metadata\":{\"id\":\"\",\"uri\":\"https://SomeUrlGoesHere\",\"etag\":\"\\\"1\\\"\",\"type\":\"\"},\"Title\":\"Weather Zones\",\"Value1\":\"60950,85027\"},{\"__metadata\":{\"id\":\"\",\"uri\":\"SomeUrlGoesHere\",\"etag\":\"\\\"1\\\"\",\"type\":\"\"},\"Title\":\"Weather Cycle Frequency\",\"Value1\":\"1\"}]}}";
+			
+					var jsonObject = JSON.parse(data);
+								
+					if (Object.keys(jsonObject.d.results).length > 0) {
+						var firstWeatherItem = '';
+						var weatherTimeOut = '5000'; // default time-out is 5 seconds (in milliseconds)
+						// read config values
+						for (var j = 0; j < jsonObject.d.results.length; j++) {			
+							if (jsonObject.d.results[j].Title.toLowerCase() == 'weather zones') {
+								firstWeatherItem = jsonObject.d.results[j].Value1;
+							}
+							if (jsonObject.d.results[j].Title.toLowerCase() == 'weather cycle frequency') {
+								weatherTimeOut = jsonObject.d.results[j].Value1 + '000';
+							}			
+						}
+						
+						if (firstWeatherItem != null && firstWeatherItem != "") {
+							var zipsArray = firstWeatherItem.split(',');
+							// Format for YQL
+							var yahooWeatherUrl = FormatYahooQueryZones(zipsArray);
+							var weatherImageUrl = "https://s.yimg.com/lq/i/us/we/52/";			
+							// Call Yahoo  API
+							$(document).ready(function () {			
+								$.ajax({
+									url: yahooWeatherUrl,			
+									callback: 'callback',			
+									contentType: 'application/json; charset=utf-8',
+									type: 'POST',
+									dataType: 'jsonp',
+									timeout: 5000,
+									success: function (data, status) {
+										if (data !== undefined && data.query.results.channel !== undefined) {
+											for (var i = 0; i < data.query.results.channel.length; i++) {
+												$('#inner1').append("<div >" + "<img  alt='Weather Image'   src='" + weatherImageUrl + data.query.results.channel[i].item.condition.code + '.gif' + "' /><span>" + data.query.results.channel[i].item.condition.temp + " " + data.query.results.channel[i].units.temperature + " " + /*data.query.results.channel[i].item.condition.date.substring(17, 25) + */"<br/>" + data.query.results.channel[i].location.city + ", " + data.query.results.channel[i].location.region + "</span></div>");
+											}
+											$('#inner1').cycle({ timeout: weatherTimeOut, speed: 500, fx: 'scrollDown', next: "#inner1", pause: 1 });
+										}
+									}		
+								});			
+							});
+						}
+					}			
+				}
+			
+				function FormatYahooQueryZones(zipsArray) {
+					var doubleQuotes = "%22";
+					var comma = "%2C";			
+					var urlPfix = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%20in%20%20(";
+					var urlSfix = ")%20and%20u%20%3D%20'f'&format=json&diagnostics=true";
+					// array join
+					var str = "", sArritems = [];
+					for (var i = 0; i < zipsArray.length; i++) {
+						if (i == 0) {
+							sArritems[i] = doubleQuotes + zipsArray[i] + doubleQuotes;
+						}
+						else {
+							sArritems[i] = comma + doubleQuotes + zipsArray[i] + doubleQuotes;
+						}
+					}			
+			
+					//str = urlPfix + sArritems.join("") + urlSfix;
+					str = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%20in%20%20(85008,60950)%20and%20u%20%3D%20'f'&format=json";
+					
+					return str;
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="outer">
+			<div id="inner1"></div>
+			<div id="inner2"></div>
+		</div>
+	</body>
+</html>
