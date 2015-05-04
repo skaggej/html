@@ -5,9 +5,13 @@
 		<script type="text/javascript"?>
 			$(document).ready(function()  {
 				$('#message').text( "Hello, World!");
+				changeImage();
 			});
 			function changeColor() {
 				$('#message').css('color','red');
+			}
+			function changeImage() {
+				$("#logo").attr('src','https://home.catapultsystems.com/SiteAssets/images/catapult_logo_small.jpg');
 			}
 		</script>
 	</head>
@@ -15,5 +19,8 @@
 		<div id="message"></div>
 		<p>The message above was set using jQuery. </p>
 		<input type="button" value="Change message color" onclick="changeColor()"></input>
+		<div>
+			<img id="logo" src="https://cat.sharepoint.com/sites/FuseGovDemo/Style%20Library/_fuse/images/logo.png"></img>
+		</div>
 	</body>
 </html>
