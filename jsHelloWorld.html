@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript"?>
+			$(document).ready(function()  {
+				$('#message').text( "Hello, World!");
+			});
+			function changeColor() {
+				$('#message').css('color','red');
+			}
+		</script>
+	</head>
+	<body>
+		<div id="message"></div>
+		<p>The message above was set using jQuery. </p>
+		<input type="button" value="Change message color" onclick="changeColor()"></input>
+	</body>
+</html>

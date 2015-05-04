@@ -42,7 +42,7 @@
 									success: function (data, status) {
 										if (data !== undefined && data.query.results.channel !== undefined) {
 											for (var i = 0; i < data.query.results.channel.length; i++) {
-												$('#inner1').append("<div >" + "<img  alt='Weather Image'   src='" + weatherImageUrl + data.query.results.channel[i].item.condition.code + '.gif' + "' /><span>" + data.query.results.channel[i].item.condition.temp + " " + data.query.results.channel[i].units.temperature + " " + /*data.query.results.channel[i].item.condition.date.substring(17, 25) + */"<br/>" + data.query.results.channel[i].location.city + ", " + data.query.results.channel[i].location.region + "</span></div>");
+												$('#inner1').append("<div >" + "<img  alt='Weather Image'   src='" + weatherImageUrl + data.query.results.channel[i].item.condition.code + '.gif' + "' /><span>" + data.query.results.channel[i].item.condition.temp + " " + data.query.results.channel[i].units.temperature + " " + /* data.query.results.channel[i].item.condition.date.substring(17, 25) + */"<br/>" + data.query.results.channel[i].location.city + ", " + data.query.results.channel[i].location.region + "</span></div>");
 											}
 											$('#inner1').cycle({ timeout: weatherTimeOut, speed: 500, fx: 'scrollDown', next: "#inner1", pause: 1 });
 										}
@@ -70,7 +70,7 @@
 					}			
 			
 					//str = urlPfix + sArritems.join("") + urlSfix;
-					str = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%20in%20%20(85008,60950)%20and%20u%20%3D%20'f'&format=json";
+					str = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%20in%20%20(85008,60950,90210)%20and%20u%20%3D%20'f'&format=json";
 					
 					return str;
 				}
