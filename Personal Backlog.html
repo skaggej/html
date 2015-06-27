@@ -41,6 +41,9 @@
 			text-align: left;
 			display: table-cell;
 		}
+		#col1 {
+			padding-right: 100px;
+		}
 		h1, h2, h3 {
 			color: #C41230;
 		}
@@ -49,17 +52,18 @@
 <body>
 	<div id="bingSearchContainer">
 		<form action="http://www.bing.com/search">
-			<a href="http://www.bing.com"><img id="imgBing" alt="bing icon" src="bing_tp.png" /></a><input id="sb_form_q" name="q" type="search"  />
+			<a href="http://www.bing.com"><img id="imgBing" alt="bing icon" src="bing_tp.png" /></a>
+			<input id="sb_form_q" name="q" type="search" />
 		</form>
 	</div>
 	<div id="bodyContainer">
 		<div id="col1">
-			<h2>To-do</h2>
+			<h3>To-do</h3>
 			<ol>
 				<li>Create a single-page app for this backlog -- where to begin?</li>
 				<li>consolidate GitHub/CodePlex repos</li>
 				<li>Review and update all blog posts</li>
-				<li>Pluralsight Course:  PowerShell for Office 365</li>
+				<li>Pluralsight Course: PowerShell for Office 365</li>
 				<li>Beginning SharePoint 2013 Development</li>
 				<li>organize pics and get pics off the web into OneDrive</li>
 				<li>Data.js - datajs.codeplex.com</li>
@@ -70,22 +74,23 @@
 				<li>Bootstrap.js - getbootstrap.com</li>
 				<li>Become more familiar with the Brackets IDE</li>
 			</ol>
-			<h2>SharePoint Online</h2>
+			<h3>SharePoint Online</h3>
 			<ol>
-				<li>Send me a daily email that contains the latest items from the message center in the O365 admin portal. </li>
+				<li>Send me a daily email that contains the latest items from the message center in the O365 admin portal.</li>
 			</ol>
-			<h2>Delve</h2>
+			<h3>Delve</h3>
 			<ol>
 				<li>Possible to expose blogs in Office 365 to the outside world on CatapultSystems.com?</li>
 			</ol>
-			<h2>Blog Posts</h2>
+			<h3>Blog Posts</h3>
 			<ol>
 				<li>Creating your own home page to increase productivity</li>
 				<li>Rapid branding development with Branding.ApplyBranding</li>
-				<li>How you sometimes have to "beat" the spell check in SharePoint to publish working changes and how linking a CEWP to an HTML file can circumvent the issue</li>
+				<li>How you sometimes have to "beat" the spell check in SharePoint to publish working changes and how linking a CEWP to an HTML
+					file can circumvent the issue</li>
 				<li>PHXO365UG is joining forces with AZSharePointPros</li>
 			</ol>
-			<h2>Tweets</h2>
+			<h3>Tweets</h3>
 			<ol>
 				<li>Coming to the next @AZSharePointPro meeting? - http://www.azsharepointpros.com/ #SharePoint #Exchange #Lync #Office365 #O365</li>
 				<li>Tonight's @AZSharePointPro meeting features guest speaker @TwitterHandle of @CompanyTwitterHandle! #SharePoint #Exchange
@@ -93,28 +98,49 @@
 			</ol>
 		</div>
 		<div id="col2">
-			<h2>Links</h2>
 			<h3>Personal</h3>
 			<ol>
-				<li><a href="https://col127.mail.live.com/">Outlook.com</a></li>
+				<li>
+					<a href="https://col127.mail.live.com/">Outlook.com</a>
+				</li>
 			</ol>
 			<h3>Dev</h3>
 			<ol>
-				<li><a href="https://github.com/skaggej?tab=repositories">GitHub</a></li>
-				<li><a href="https://www.codeplex.com/site/users/view/skaggej">CodePlex</a></li>
-				<li><a href="http://tfsadmin.codeplex.com/">TFS Admin Tool</a></li>
-				<li><a href="https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379/file/151803/12/Open%20Command%20Line%20v1.7.121.vsix">VSIX - Open Command Line</a></li>
+				<li>
+					<a href="https://github.com/skaggej?tab=repositories">GitHub</a>
+				</li>
+				<li>
+					<a href="https://www.codeplex.com/site/users/view/skaggej">CodePlex</a>
+				</li>
+				<li>
+					<a href="http://tfsadmin.codeplex.com/">TFS Admin Tool</a>
+				</li>
+				<li>
+					<a href="https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379/file/151803/12/Open%20Command%20Line%20v1.7.121.vsix">VSIX - Open Command Line</a>
+				</li>
 			</ol>
 			<h3>Website</h3>
 			<ol>
-				<li><a href="http://www.ericskaggs.net">ericskaggs.net</a></li>
-				<li><a href="https://www.youtube.com/channel/UCcEaR8HfGpPwt-GqJr_h5UQ">Orchard - YouTube</a></li>
+				<li>
+					<a href="http://www.ericskaggs.net">ericskaggs.net</a>
+				</li>
+				<li>
+					<a href="https://www.youtube.com/channel/UCcEaR8HfGpPwt-GqJr_h5UQ">Orchard - YouTube</a>
+				</li>
+			</ol>
+			<h3>Books</h3>
+			<ol>
+				<li>Improve IT! by Webtrends</li>
+				<li>Hooked</li>
+				<li>Zero to one</li>
+				<li>Business model generation</li>
 			</ol>
 		</div>
 		<div id="col3">
-			<h2>#Office365Dev</h2>
+			<h3>#Office365Dev</h3>
 			<ol>
-				<li><a href="http://dev.office.com/">dev.office.com</li>
+				<li>
+					<a href="http://dev.office.com/">dev.office.com</li>
 				<li><a href="https://github.com/OfficeDev/PnP">OfficeDev/PnP on GitHub</li>
 				<li><a href="https://www.nuget.org/profiles/officedevpnp">OfficeDevPnP NuGets</li>
 			</ol>
