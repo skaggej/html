@@ -1,153 +1,145 @@
 <!DOCTYPE html>
 <head>
-	<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			//set focus on search box
-			$('#sb_form_q').focus();
-		});
-	</script> 
-	<style>
-		body{
-			font-family: Calibri;
-			font-weight: normal;
-			color: #333333;
-			text-align: center;
-			background-color: #EBEBEB;
-		}
-		a {
-			text-decoration: none;
-		}
-		#imgBing {
-			margin-right: 10px;
-			position: relative;
-			top: 3px;
-		}
-		#bingSearchContainer {
-			position: absolute;
-			top: 0;
-			left: 0;
-			margin: 10px 0 0 10px;
-		}
-		#sb_form_q {
-			width: 500px;;
-			font-size: 24px;
-		}
-		#bodyContainer{
-			padding-top: 20px;
-		}
-		#col1, #col2, #col3 {
-			width: 33.333%;
-			text-align: left;
-			display: table-cell;
-		}
-		#col1 {
-			padding-right: 100px;
-		}
-		h1, h2, h3 {
-			color: #C41230;
-		}		
-	</style>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //set focus on search box
+            $('#sb_form_q').focus();
+        });
+    </script>
+    <style>
+        body {
+            font-family: Calibri;
+            font-weight: normal;
+            color: #333333;
+            text-align: center;
+            background-color: #EBEBEB;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        #imgBing {
+            margin-right: 10px;
+            position: relative;
+            top: 3px;
+        }
+
+        #bingSearchContainer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 10px 0 0 10px;
+        }
+
+        #sb_form_q {
+            width: 500px;
+            ;
+            font-size: 24px;
+        }
+
+        #bodyContainer {
+            padding-top: 20px;
+        }
+
+        #col1, #col2, #col3 {
+            width: 33.333%;
+            text-align: left;
+            display: table-cell;
+        }
+
+        #col1 {
+            padding-right: 100px;
+        }
+
+        h1, h2, h3 {
+            color: #C41230;
+        }
+    </style>
 </head>
 <body>
-	<div id="bingSearchContainer">
-		<form action="http://www.bing.com/search">
-			<a href="http://www.bing.com"><img id="imgBing" alt="bing icon" src="bing_tp.png" /></a>
-			<input id="sb_form_q" name="q" type="search" />
-		</form>				
-	</div>
-	<div id="bodyContainer">
-		<div id="col1">
-			<h3>To-do</h3>
-			<ol>
-				<li>Create a single-page app for this backlog -- where to begin?</li>
-				<li>consolidate GitHub/CodePlex repos</li>
-				<li>Review and update all blog posts</li>
-				<li>Pluralsight Course: PowerShell for Office 365</li>
-				<li>Beginning SharePoint 2013 Development</li>
-				<li>organize pics and get pics off the web into OneDrive</li>
-				<li>Data.js - datajs.codeplex.com</li>
-				<li>Breeze.js - breezejs.com</li>
-				<li>Knockout.js - knockoutjs.com</li>
-				<li>Angular.js - angularjs.org</li>
-				<li>LessCss - lesscss.org</li>
-				<li>Bootstrap.js - getbootstrap.com</li>
-				<li>Become more familiar with the Brackets IDE</li>
-			</ol>
-			<h3>SharePoint Online</h3>
-			<ol>
-				<li>Send me a daily email that contains the latest items from the message center in the O365 admin portal.</li>
-			</ol>
-			<h3>Delve</h3>
-			<ol>
-				<li>Possible to expose blogs in Office 365 to the outside world on CatapultSystems.com?</li>
-			</ol>
-			<h3>Blog Posts</h3>
-			<ol>
-				<li>Creating your own home page to increase productivity</li>
-				<li>Rapid branding development with Branding.ApplyBranding</li>
-				<li>How you sometimes have to "beat" the spell check in SharePoint to publish working changes and how linking a CEWP to an HTML
-					file can circumvent the issue</li>
-				<li>PHXO365UG is joining forces with AZSharePointPros</li>
-			</ol>
-			<h3>Tweets</h3>
-			<ol>
-				<li>Coming to the next @AZSharePointPro meeting? - http://www.azsharepointpros.com/ #SharePoint #Exchange #Lync #Office365 #O365</li>
-				<li>Tonight's @AZSharePointPro meeting features guest speaker @TwitterHandle of @CompanyTwitterHandle! #SharePoint #Exchange
-					#Lync #Office #Office365 #O365</li>
-				<li>Tonight's @AZSharePointPro meeting was great! We learned all about Dynamic Forms for #SharePoint by @SPJavaScripts. More at spjsblog.com.</li>
-				<li>A big thank you to @TEKsystems for sponsoring last night's @azsharepointpro meeting! You really came through for us and we appreciate it!</li>					
-			</ol>
-		</div>
-		<div id="col2">
-			<h3>Personal</h3>
-			<ol>
-				<li>
-					<a href="https://col127.mail.live.com/">Outlook.com</a>
-				</li>
-			</ol>
-			<h3>Dev</h3>
-			<ol>
-				<li>
-					<a href="https://github.com/skaggej?tab=repositories">GitHub</a>
-				</li>
-				<li>
-					<a href="https://www.codeplex.com/site/users/view/skaggej">CodePlex</a>
-				</li>
-				<li>
-					<a href="http://tfsadmin.codeplex.com/">TFS Admin Tool</a>
-				</li>
-				<li>
-					<a href="https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379/file/151803/12/Open%20Command%20Line%20v1.7.121.vsix">VSIX - Open Command Line</a>
-				</li>
-			</ol>
-			<h3>Website</h3>
-			<ol>
-				<li>
-					<a href="http://www.ericskaggs.net">ericskaggs.net</a>
-				</li>
-				<li>
-					<a href="https://www.youtube.com/channel/UCcEaR8HfGpPwt-GqJr_h5UQ">Orchard - YouTube</a>
-				</li>
-			</ol>
-			<h3>Books</h3>
-			<ol>
-				<li>Improve IT! by Webtrends</li>
-				<li>Hooked</li>
-				<li>Zero to one</li>
-				<li>Business model generation</li>
-				<li>Effortless Experience</li>
-			</ol>
-		</div>
-		<div id="col3">
-			<h3>#Office365Dev</h3>
-			<ol>
-				<li>
-					<a href="http://dev.office.com/">dev.office.com</li>
-				<li><a href="https://github.com/OfficeDev/PnP">OfficeDev/PnP on GitHub</li>
-				<li><a href="https://www.nuget.org/profiles/officedevpnp">OfficeDevPnP NuGets</li>
-			</ol>
-		</div>
-	</div>
+    <div id="bingSearchContainer">
+        <form action="http://www.bing.com/search">
+            <a href="http://www.bing.com"><img id="imgBing" alt="bing icon" src="bing_tp.png" /></a>
+            <input id="sb_form_q" name="q" type="search" />
+        </form>
+    </div>
+    <div id="bodyContainer">
+        <div id="col1">
+            <h3>To-do</h3>
+            <ol>
+                <li>Sort the links on SharePoint's site settings page</li>
+                <li>Create a single-page app for this backlog -- where to begin?</li>
+                <li>consolidate GitHub/CodePlex repos</li>
+                <li>Review and update all blog posts</li>
+                <li>Beginning SharePoint 2013 Development</li>
+                <li>Data.js - datajs.codeplex.com</li>
+                <li>Breeze.js - breezejs.com</li>
+                <li>Knockout.js - knockoutjs.com</li>
+                <li>Angular.js - angularjs.org</li>
+                <li>LessCss - lesscss.org</li>
+                <li>Bootstrap.js - getbootstrap.com</li>
+            </ol>
+            <h3>Tweets</h3>
+            <ol>
+                <li>Coming to the next @AZSharePointPro meeting? - http://www.azsharepointpros.com/ #SharePoint #Exchange #Lync #Office365 #O365</li>
+                <li>
+                    Tonight's @AZSharePointPro meeting features guest speaker @TwitterHandle of @CompanyTwitterHandle! #SharePoint #Exchange
+                    #Lync #Office #Office365 #O365
+                </li>
+                <li>Tonight's @AZSharePointPro meeting was great! We learned all about Dynamic Forms for #SharePoint by @SPJavaScripts. More at spjsblog.com.</li>
+                <li>A big thank you to @TEKsystems for sponsoring last night's @azsharepointpro meeting! You really came through for us and we appreciate it!</li>
+            </ol>
+        </div>
+        <div id="col2">
+            <h3>Personal</h3>
+            <ol>
+                <li><a href="https://col127.mail.live.com/">Outlook.com</a></li>
+            </ol>
+            <h3>Dev</h3>
+            <ol>
+                <li><a href="https://github.com/skaggej?tab=repositories">GitHub</a></li>
+                <li><a href="https://www.codeplex.com/site/users/view/skaggej">CodePlex</a></li>
+                <li><a href="https://www.visualstudio.com">Visual Studio</a></li>
+                <li><a href="http://tfsadmin.codeplex.com/">TFS Admin Tool</a></li>
+                <li><a href="https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379/file/151803/12/Open%20Command%20Line%20v1.7.121.vsix">VSIX - Open Command Line</a></li>
+            </ol>
+            <h3>Website</h3>
+            <ol>
+                <li><a href="http://www.ericskaggs.net">ericskaggs.net</a></li>
+                <li><a href="https://www.youtube.com/channel/UCcEaR8HfGpPwt-GqJr_h5UQ">Orchard - YouTube</a></li>
+            </ol>
+            <h3>Books</h3>
+            <ol>
+                <li>Improve IT! by Webtrends</li>
+                <li>Hooked</li>
+                <li>Zero to one</li>
+                <li>Business model generation</li>
+                <li>Effortless Experience</li>
+            </ol>
+        </div>
+        <div id="col3">
+            <h3>#Office365Dev</h3>
+            <ol>
+                <li><a href="http://success.office.com/en-us/roadmap/">Office Roadmap</a></li>
+                <li><a href="http://dev.office.com/">dev.office.com</a></li>
+                <li><a href="https://github.com/OfficeDev/PnP">OfficeDev/PnP on GitHub</a></li>
+                <li><a href="https://www.nuget.org/profiles/officedevpnp">OfficeDevPnP NuGets</a></li>
+                <li><a href="https://channel9.msdn.com/Shows/Office-Dev-Show">Office Dev Show</a></li>
+                <li><a href="https://www.youtube.com/channel/UCV_6HOhwxYLXAGd-JOqKPoQ">Office Development on Youtube</a></li>
+                <li><a href="https://itunes.apple.com/us/podcast/office-365-developer-podcast/id886295635">Podcast on iTunes</a></li>
+                <li><a href="http://aka.ms/officedevpnpcmdlets15">PowerShell - Office Dev PnP Cmdlets 15</a></li>
+                <li><a href="http://aka.ms/officedevpnpcmdlets16">PowerShell - Office Dev PnP Cmdlets 16</a></li>
+                <li><a href="https://graphexplorer2.azurewebsites.net/">Office Graph Explorer</a></li>
+                <li><a href="http://dev.office.com/unifiedAPIs">Office 365 Unified API</a></li>
+                <li><a href="https://apisandbox.msdn.microsoft.com/">Office 365 API sandbox</a></li>                
+            </ol>
+            <h3>#SharePoint</h3>
+            <ol>
+                <li><a href="http://sp2013searchtool.codeplex.com/">SharePoint 2013 Search Query Tool</a></li>                
+            </ol>
+        </div>
+    </div>
 </body>
 </html>
