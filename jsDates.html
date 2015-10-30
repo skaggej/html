@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html>
+<head>
+	<script src="http://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	$(document).ready(function () {
+		//obtain the dates ranges from SharePoint
+		//get the current date
+		var currentDate  = new Date();
+		var months = ["January","February","March","April","May","June","July","August","September","October","November","December"]; 
+		var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+		var monthName = months[currentDate.getMonth()];
+		var dayName = days[currentDate.getDay()];
+		//calculate the date ranges for each tab - add/subtract days based on SP values
+		Date.prototype.addDays = function(days) {
+			var calculatedDate = new Date(this.valueOf());
+			calculatedDate.setDate(calculatedDate.getDate() + days);
+			return calculatedDate;
+		}		
+		alert(currentDate.addDays(-7));  //the value in the Configuration list in SharePoint will replace the -7 here
+		alert(currentDate.addDays(7));  //the value in the Configuration list in SharePoint will replace the 7 here
+		var currentYear = currentDate.getFullYear();
+		var currentMonth = currentDate.getMonth();
+		var currentDay = currentDate.getDay();
+		var myDate = new Date(2015, 01, 01);
+		var year = myDate.getFullYear();
+		var html = "date: " + currentDate;
+		html+= "<br/>year: " + currentYear;
+		html+= "<br/>month: " + currentMonth;
+		html+= "<br/>month: " + monthName;
+		html+= "<br/>day: " + currentDay;
+		html+= "<br/>day of week: " + dayName;
+		document.getElementById("dates").innerHTML = html;
+		if(year == currentYear)
+		{
+			document.getElementById("results").innerHTML = year;
+		}
+	});
+	</script>
+</head>
+<body>
+	<div id="dates"></div>
+	<div id="results"></div>
+</body>
+</html>
