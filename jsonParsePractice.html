@@ -1,0 +1,23 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="button" onclick="parseJSON()" value="Parse JSON" />
+	<div id="jsonData" />
+	<script type="text/javascript">
+		function parseJSON() {
+			var bookData = JSON.parse('{"Books":[{"Title": "The Jungle","Author": "Upton Sinclair"},{"Title":"Walden","Author":"Henry David Thoreau"}]}');
+			var bookTitle;
+			var bookAuthor;
+			for (var i = 0; i < bookData.Books.length; i++) {			
+				bookTitle = bookData.Books[i].Title;
+				bookAuthor = bookData.Books[i].Author;
+				var textnode = document.createTextNode(bookTitle + " was written by " + bookAuthor + ".\n");
+				document.getElementById("jsonData").appendChild(textnode);
+			}		
+		}
+	</script>
+</body>
+</html>
