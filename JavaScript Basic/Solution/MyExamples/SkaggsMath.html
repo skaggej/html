@@ -1,0 +1,25 @@
+<html>
+<head>
+<script language="JavaScript">
+function Calculate()
+{
+	var inputNum = parseInt(tNumber.value);
+	document.write("You entered:  " + inputNum + "<br/>");
+	document.write("Absolute Value:  " + Math.abs(inputNum) + "<br/>");
+	document.write("Natural Log:  " + Math.log(inputNum) + "<br/>");
+	document.write("To the Power of Itself:  " + Math.pow(inputNum,inputNum) + "<br/>");
+	document.write("Random:  " + Math.random() + "<br/>");
+	document.write("Rounded:  " + Math.round(inputNum) + "<br/>");
+	document.write("Sqrt:  " + Math.sqrt(inputNum) + "<br/>");
+	document.write("Euler's Constant:  " + Math.E + "<br/>");
+	document.write("PI:  " + Math.PI + "<br/>");
+	document.write("Square root of 2:  " + Math.SQRT2 + "<br/>");
+}
+</script>
+</head>
+<body>
+<input type="text" id="tNumber" />
+<input type="button" id="bCalculate" value="Calculate" onclick="Calculate()" />
+<div id="abs"></div>
+</body>
+</html>

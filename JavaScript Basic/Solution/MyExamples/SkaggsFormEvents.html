@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title>Handling Form Events with JavaScript</title>
+	<script language="JavaScript">
+	function getUserInfo()
+	{
+		alert("Your user name is " + fGetUserInfo.tUserName.value);
+	}
+	function validate()
+	{
+		var valid=false;
+		var email = fGetUserInfo.tEmailAddress.value;
+		if(email.indexOf("@")>0)
+		{
+			valid=true;
+		}
+		else
+		{
+			alert("Email is not valid!");
+		}
+	}
+	</script>
+</head>
+<body>
+	<form id="fGetUserInfo" onSubmit="getUserInfo()">
+		Enter your user name:  <input type="text" id="tUserName" /><br/>
+		Enter your email address:  <input type="text" id="tEmailAddress" onBlur="validate()" /><br/>
+		<input type="submit" value="Submit"/>&nbsp;&nbsp;<input type="reset" value="Reset" />
+	</form>
+</body>
+</html>

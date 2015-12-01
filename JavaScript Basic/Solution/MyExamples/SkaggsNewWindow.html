@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>This page was opened from the JavaScript window.Open() method!</title>
+	<script language="JavaScript">
+	function updateStatus()
+	{
+		window.status="Opened with JavaScript!";
+	}
+	</script>
+</head>
+<body onload="updateStatus()">
+	<input type="button" value="Close this window" id="bOpenWindow" onclick="javascript:window.close()"/>
+	<input type="button" value="View this window's name" id="bViewWindowName" onclick="javascript:alert(window.self);"/>
+</body>
+</html>

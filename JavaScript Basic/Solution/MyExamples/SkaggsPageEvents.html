@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>Page Load and Unload Events with JavaScript</title>
+	<script language="JavaScript">
+		//This event fires when the page has loaded.
+		function pageLoaded()
+		{
+			document.write("The 'onLoad' event has occurred.");
+		}
+		//This event fires when the page is unloaded.
+		function pageUnloaded()
+		{
+			alert("The page's onUnload() method has fired");
+		}
+	</script>
+</head>
+<body onload="pageLoaded()" onunload="pageUnloaded()">
+</body>
+</html>

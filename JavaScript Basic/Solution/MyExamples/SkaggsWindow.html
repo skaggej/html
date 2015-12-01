@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Window Practice</title>
+	<script language="JavaScript">
+	function openWindow()
+	{
+		//Not all of the features are available from this one window.open() call, so you'll probably want to have other
+		//buttons on this page that call other window.open() methods to experiement with all of the functionality.
+		
+		//It's also important to point out that the "height" and "width" attributes are in the same set of double quotations ("").
+		window.open("skaggsnewwindow.html","SkaggsNewWindow","scrollbars=0","toolbar=0","menubar=0","resizable=1","location=1","directories=1","width=100 height=100");
+	}
+	</script>
+</head>
+<body>
+	<input type="button" value="Open a new window" id="bOpenWindow" onclick="openWindow()"/>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+<head>
+<script language="JavaScript">
+function ManipulateString()
+{
+	var currentString = tString.value;
+	document.write("You entered:  " + currentString);	document.write("<br/>");	document.write("<br/>");
+	document.write(("Formatting Examples").bold());	document.write("<br/>");
+	document.write("Emboldened:  " + currentString.bold() + "<br/>");
+	document.write("Italicized:  " + currentString.italics() + "<br/>");
+	document.write("Linked:  " + currentString.link("http://skaggej.wordpress.com") + "<br/>");
+	document.write("Anchor:  " + currentString.anchor() + "<br/>");
+	document.write("Big:  " + currentString.big() + "<br/>");
+	document.write("FontColor:  " + currentString.fontcolor("Blue") + "<br/>");
+	document.write("FontSize:  " + currentString.fontsize("36pt") + "<br/>");
+	document.write("Small:  " + currentString.small() + "<br/>");
+	document.write("Subscript:  " + currentString.sub() + "<br/>");
+	document.write("Superscript:  " + currentString.sup() + "<br/>");
+	document.write("<br/>" + ("Functionality Examples").bold());	document.write("<br/>");
+	document.write("String length:  " + currentString.length + "<br/>");
+	document.write("Third character:  " + currentString.charAt(2) + "<br/>");
+	document.write("Index of the letter 'A':  " + currentString.indexOf("a") + "<br/>");
+	document.write("Substring:  " + currentString.substr("a",3) + "<br/>");
+	document.write("All lower case:  " + currentString.toLowerCase() + "<br/>");
+	document.write("All upper case:  " + currentString.toUpperCase() + "<br/>");
+}
+</script>
+</head>
+<body>
+<input type="text" id="tString"/>
+<input type="button" id="bClick" onclick="ManipulateString()" value="Manipulate String"/>
+</body>
+</html>

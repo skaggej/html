@@ -1,0 +1,1 @@
+alert("This alert was called from an external file!")

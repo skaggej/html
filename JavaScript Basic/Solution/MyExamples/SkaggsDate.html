@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>Date Manipulation with JavaScript</title>
+	<script language="JavaScript">
+		function manipulateDate()
+		{
+			var date = new Date();
+			var day = date.getDate();
+			var dayOfWeek = date.getDay();
+			var year = date.getFullYear();
+			var hour = date.getHours();
+			var minutes = date.getMinutes();
+			var month = date.getMonth();
+			var seconds = date.getSeconds();
+			var milliseconds = date.getTime();
+			var numYearsSince1900 = date.getYear();
+			var dateUTC = date.toGMTString();
+			document.write(date);
+			document.write("<br/>");
+			document.write(day);
+			document.write("<br/>");
+			document.write(dayOfWeek);
+			document.write("<br/>");
+			document.write(year);
+			document.write("<br/>");
+			document.write(hour);
+			document.write("<br/>");
+			document.write(minutes);
+			document.write("<br/>");
+			document.write(month);
+			document.write("<br/>");
+			document.write(seconds);
+			document.write("<br/>");
+			document.write(milliseconds);
+			document.write("<br/>");
+			document.write(numYearsSince1900);
+			document.write("<br/>");
+			document.write(dateUTC);
+		}
+	</script>
+</head>
+<body>
+	<input id="bManipulateDate" type="button" value="Manipulate Date" onclick="manipulateDate()"/>
+</body>
+</html>

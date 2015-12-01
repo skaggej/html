@@ -1,0 +1,43 @@
+<html>
+<head>
+   <title>String</title>
+
+<SCRIPT language = "JavaScript">
+//Enter the function here
+function countBees()
+{
+	var beeString = prompt("Enter a sentence:", "");
+	if(beeString!=null)
+	{
+		var beeCounter = 0;
+		var alertString = "The sentence is " + beeString.length;
+		alertString += " characters long and has ";
+		beeString = beeString.toUpperCase();
+		for(i=0;i<beeString.length;i++)
+		{
+			if(beeString.charAt(i)=="B")
+			{
+				beeCounter++;
+			}
+		}
+		alertString += beeCounter + " B(s) in it."
+		alert(alertString);
+	}
+	else
+	{
+		alert("Operation Cancelled");
+	}
+}
+</SCRIPT>
+
+</head>
+
+<body bgcolor="#66AAAA">
+<H1>The String Object</H2>
+
+<FORM>
+<INPUT Type="button" Value="Count the Bees!" OnCLick="countBees()">
+</FORM>
+
+</body>
+</html>

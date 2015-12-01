@@ -1,0 +1,28 @@
+<head>
+   <title>Date</title>
+
+<!--Enter the function here-->
+<script language="JavaScript">
+	function whatDate()
+	{
+		var rightNow = new Date();
+		var theMonth = rightNow.getMonth() + 1;
+		var theDate = rightNow.getDate();
+		var theYear = rightNow.getFullYear();
+		var alertString = "The date today is " + theMonth + "/" + theDate + "/" + theYear;
+		alert(alertString);
+	}
+</script>
+
+</head>
+
+<body bgcolor="#88CCEE">
+
+<H1>The Date Object</H1>
+
+<FORM>
+<INPUT Type="button" Value="What is the date?" OnClick="whatDate()">
+</FORM>
+
+</body>
+</html>

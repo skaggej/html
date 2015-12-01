@@ -1,0 +1,48 @@
+<head>
+   <title>StringPractice</title>
+
+<!--Code the function here-->
+<script language="JavaScript">
+	function stringPractice()
+	{
+		var valid = false;
+		while(!valid)
+		{
+			var userID = prompt("Enter a new user ID","");
+			var whiteSpace = userID.indexOf(" ");
+			if(userID.length >= 6 && userID.length <= 14 && whiteSpace<0)
+			{
+				alert("Thank you.  Your new user ID is valid.");
+				valid=true;
+			}
+			else
+			{
+				valid=false;
+				if(userID.length < 6)
+				{
+					alert("The user ID is too short.  It must be longer than 5 characters.  Please try again");
+				}
+				if(userID.length > 14)
+				{
+					alert("The user ID is too long.  It must be shorter than 15 characters.  Please try again");
+				}
+				if(whiteSpace>=0)
+				{
+					alert("Spaces are not allowed.  Please remove spaces from your user ID and try again.");
+				}
+			}
+		}
+	}
+</script>
+
+</head>
+
+<body bgcolor="#88CCEE">
+
+<H1>The Date Object</H1>
+
+<!--Code button here-->
+<input type="button" id="bStringPractice" value="Practice with Strings!" onclick="stringPractice()" />
+
+</body>
+</html>
