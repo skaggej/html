@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="idea-inbox-transform.xsl"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Catapult IdeaInbox</title>
+		<link>https://ideainboxdemo.catapultsystems.com/</link>
+		<description>Collaboration on ideas which answer the following questions: • How can Catapult truly be different from our competition? •	How can we find new ways to provide value to our clients?</description>
+		<lastBuildDate>Fri, 04 Dec 2015 22:14:57 Z</lastBuildDate>
+		<a10:id>IdeaInboxSyndicationV1.0</a10:id>
+		<item>
+			<guid isPermaLink="false">IDEAInboxIdeaID1</guid>
+			<link>https://ideainboxdemo.catapultsystems.com/Idea/Index?inboxID=1&amp;ideaID=1</link>
+			<title>Test Idea</title>
+			<description>&lt;p&gt;Test description&lt;/p&gt;</description>
+			<a10:updated>2015-11-09T22:06:20Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">IDEAInboxIdeaID2</guid>
+			<link>https://ideainboxdemo.catapultsystems.com/Idea/Index?inboxID=1&amp;ideaID=2</link>
+			<title>Another Idea</title>
+			<description>We can collaborate on great things!</description>
+			<a10:updated>2015-12-04T22:13:35Z</a10:updated>
+		</item>
+	</channel>
+</rss>
