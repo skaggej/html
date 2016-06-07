@@ -1,0 +1,50 @@
+<!--
+    LazyLoad.js loads files with a callback function so the JavaScript loaded can be executed immediately.
+    util_loadFile sends out the command to load the file and that does happen, but the JavaScript in the loaded file is likely not immediately executable.
+--> 
+
+<html>
+    <head>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+        <script type="text/javascript" src="lazyload.js"></script>
+        <script type="text/javascript" src="utilities.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                //Math section - begin
+                if($('#needsMath').length > 0){
+                    // LazyLoad.js("math.js", function () {
+                    //     var result = add(2,3);
+                    //     $('#needsMath').html(result.toString());
+                    // });
+                    util_loadFile("math.js", "js");
+                }
+                //Math section - end
+
+                //Science section - begin
+                if($('#needsScience').length > 0){
+                    // LazyLoad.js("science.js", function () {
+                    //     var lightspeed = getSpeedOfLight();
+                    //     $('#needsScience').html(lightspeed.toString());
+                    // });
+                    util_loadFile("science.js","js");
+                }
+                //Science section - end
+            });
+            function doMath(){
+                var result = add(2,3);
+                $('#needsMath').html(result.toString());
+            }
+            function doScience(){
+                var lightspeed = getSpeedOfLight();
+                $('#needsScience').html(lightspeed.toString());
+            }
+        </script>
+    </head>
+    <body>
+        <div id="divMain">
+            Hello, World!
+        </div>
+        <div id="needsMath">math test <input type="button" value="do math" onclick="doMath()"/></div>
+        <div id="needsScience">another div <input type="button" value="do science" onclick="doScience()"></div>
+    </body>
+</html>
