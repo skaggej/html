@@ -1,0 +1,38 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+</head>
+<body>
+	<input type="button" onclick="getGitHubProfile()" value="Get GitHub Profile" />
+	<div id='main' />
+	<script type="text/javascript">
+		$(document).ready(getGitHubProfile());
+		function displayData(profile){
+			var login = profile["login"];
+			var avatarUrl = profile["avatar_url"];
+			var numReposPublic = profile["public_repos"];
+			var profileUrl = profile["url"];
+			$('#main').append('<div id="loginName"><a href="'+profileUrl+'">'+login+' has '+ numReposPublic+' repos</a></div><div id="picture"><img style="height:60px;width:60px;" src="'+avatarUrl+'"/></div>');
+		}
+		function httpGetAsync(theUrl, callback)
+		{
+			var xmlHttp = new XMLHttpRequest();
+			xmlHttp.onreadystatechange = function() { 
+				if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+					callback(xmlHttp.responseText);
+			}
+			xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+			xmlHttp.send(null);
+		}
+		function getGitHubProfile() {
+			var gitHubUrl = "https://api.github.com/users/skaggej";
+			httpGetAsync(gitHubUrl, function(data){
+				var profileObject = JSON.parse(data);
+				displayData(profileObject);
+			});
+		}
+	</script>
+</body>
+</html>
