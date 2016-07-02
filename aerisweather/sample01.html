@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aeris weather map</title>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css">
+        <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js"></script>
+        <script type="text/javascript" src="http://cdn.aerisjs.com/aeris.min.js"></script>
+        <script type="text/javascript" src="apikeys.js"></script>
+    </head>
+    <body>
+        <div id="map-canvas" style="width:800px;height:600px"></div>
+        <div id="js"></div>
+        <script type="text/javascript">
+            aeris.config.set({
+                    apiId: apiKeys.aeris.id,
+                    apiSecret: apiKeys.aeris.secret
+            });
+
+            var map = new aeris.maps.Map('map-canvas');
+
+            $(document).ready(function($) {
+                $.ajax({
+                    url: "http://api.aerisapi.com/observations/seattle,wa?client_id="+apiKeys.aeris.id+"&client_secret="+apiKeys.aeris.secret,
+                    dataType: "jsonp",
+                    success: function(json) {
+                        if (json.success == true) {
+                        var ob = json.response.ob;
+                        $('#js').html('The current weather in Seattle is ' + ob.weather.toLowerCase() + ' with a temperature of ' + ob.tempF + '°');
+                        }
+                        else {
+                        alert('An error occurred: ' + json.error.description);
+                        }
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>
