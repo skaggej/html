@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>parseGitHubProfile</title>
+    <script src="angular.min.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+
+    <div ng-app="githubApp">
+        <div ng-controller="githubCtl">
+            <div>
+                <a href="{{data.avatar_url}}">{{data.login}} has {{data.public_repos}} repos</a>
+            </div>
+            <div>
+                <img style="height:60px;width:60px;" src="{{data.avatar_url}}" />
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
